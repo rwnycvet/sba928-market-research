@@ -1,0 +1,39 @@
+Country,SalesRows,PurchaseInvoices,IdentifiedCustomers,MissingCustomerIDRows,MissingCustomerIDPercent
+United Kingdom,479985,18019,3920,130782,27.247101471921
+Germany,9025,457,94,0,0.0
+France,8392,392,87,66,0.786463298379409
+EIRE,7879,288,3,653,8.287853788551846
+Spain,2479,90,30,0,0.0
+Netherlands,2359,94,9,0,0.0
+Belgium,2031,98,25,0,0.0
+Switzerland,1958,54,21,117,5.975485188968335
+Portugal,1492,58,19,39,2.613941018766756
+Australia,1181,57,9,0,0.0
+Norway,1071,36,10,0,0.0
+Italy,758,38,14,0,0.0
+Channel Islands,747,26,9,0,0.0
+Finland,685,41,12,0,0.0
+Cyprus,603,16,8,0,0.0
+Sweden,450,36,8,0,0.0
+Unspecified,442,13,4,201,45.47511312217195
+Austria,398,17,11,0,0.0
+Denmark,380,18,9,0,0.0
+Poland,330,19,6,0,0.0
+Japan,321,19,8,0,0.0
+Israel,292,8,3,47,16.095890410958905
+Hong Kong,280,11,0,280,100.0
+Singapore,222,7,1,0,0.0
+Iceland,182,7,1,0,0.0
+USA,179,5,4,0,0.0
+Canada,151,6,4,0,0.0
+Greece,145,5,4,0,0.0
+Malta,112,5,2,0,0.0
+United Arab Emirates,68,3,2,0,0.0
+European Community,60,4,1,0,0.0
+RSA,57,1,1,0,0.0
+Lebanon,45,1,1,0,0.0
+Lithuania,35,4,1,0,0.0
+Brazil,32,1,1,0,0.0
+Czech Republic,25,2,1,0,0.0
+Bahrain,18,3,2,1,5.555555555555555
+Saudi Arabia,9,1,1,0,0.0

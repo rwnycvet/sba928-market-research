@@ -1,0 +1,31 @@
+[
+  {
+    "id": "country_01",
+    "topic": "Country sales comparison",
+    "variation": "Marketing manager brief",
+    "evidence_files": [
+      "results/country_revenue.csv",
+      "results/country_coverage.csv"
+    ],
+    "prompt": "Act as a market research analyst preparing a brief for a marketing manager. Using the supplied summaries, identify the three countries with the highest positive sales revenue in GBP. Present a three-row table with Country, Sales Revenue (GBP), and Proposed Marketing Action. Follow it with one limitation supported by the country-coverage data. These revenue figures exclude cancellations and nonpositive quantities or prices and are not net revenue. Use only the supplied evidence, distinguish recommendations from findings, and do not infer national demand or customer motives."
+  },
+  {
+    "id": "inventory_01",
+    "topic": "Product demand",
+    "variation": "Inventory manager brief",
+    "evidence_files": [
+      "results/product_summary.csv",
+      "results/top_five_cancellation_review.csv"
+    ],
+    "prompt": "Act as a market research analyst preparing a brief for an inventory manager. Using the supplied summaries, identify the five products with the most positive units sold. Present a five-row table with Product, Positive Units Sold, Signed Units Including Cancellations, and Proposed Inventory Recommendation. Use the cancellation review to qualify recommendations, especially where positive sales substantially exceed the signed quantity balance. Follow the table with one important limitation. Use only the supplied evidence and distinguish findings from recommendations. Do not recommend exact reorder quantities without stock levels and supplier lead times, or assume that recorded sales capture demand lost through stockouts."
+  },
+{
+  "id": "trends_01",
+  "topic": "Monthly sales trends",
+  "variation": "Inventory planning brief",
+  "evidence_files": [
+    "results/monthly_revenue.csv"
+  ],
+  "prompt": "Act as a market research analyst preparing an inventory planning brief. Using the supplied monthly summary, identify the largest percentage increase and decrease between consecutive complete months and the complete month with the highest positive sales revenue. Present a table with Finding, Month, and Supporting Value, then propose one planning action. Exclude incomplete months from these comparisons. December 2011 contains data only through December 9; do not interpret its partial total as falling demand. Use only the supplied evidence, distinguish recommendations from findings, and do not claim that one year proves a recurring seasonal pattern. Revenue represents positive sales before deductions for returns and cancellations."
+}
+]

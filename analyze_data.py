@@ -146,3 +146,90 @@ product_summary.to_csv(results_folder / "product_summary.csv")
 top_five_review.to_csv(results_folder / "top_five_cancellation_review.csv")
 
 print("\nSaved three summary files to:", results_folder)
+
+# Group positive sales by calendar month.
+sales["Month"] = sales["InvoiceDate"].dt.to_period("M")
+
+monthly_summary = (
+    sales.groupby("Month")["SalesRevenue"]
+    .sum()
+    .to_frame()
+)
+
+# December 2011 ends on December 9 in the supplied dataset.
+monthly_summary["DataCoverage"] = "Complete month"
+monthly_summary.loc[
+    pd.Period("2011-12", freq="M"), "DataCoverage"
+] = "Partial month: through December 9"
+
+# Compare only consecutive complete months.
+previous_revenue = monthly_summary["SalesRevenue"].shift(1)
+complete_pair = (
+    monthly_summary["DataCoverage"].eq("Complete month")
+    & monthly_summary["DataCoverage"].shift(1).eq("Complete month")
+)
+
+monthly_summary["ChangePercent"] = (
+    (monthly_summary["SalesRevenue"] / previous_revenue - 1) * 100
+).where(complete_pair)
+
+print("\nMonthly positive sales revenue (GBP):")
+print(monthly_summary.round(2).to_string(na_rep="N/A"))
+
+monthly_summary.to_csv(results_folder / "monthly_revenue.csv")
+
+# Customer-level analysis requires a recorded CustomerID.
+identified_sales = sales.dropna(subset=["CustomerID"])
+
+# Count distinct purchase invoices, not product rows.
+purchase_counts = (
+    identified_sales.groupby("CustomerID")["InvoiceNo"].nunique()
+)
+
+customer_count = len(purchase_counts)
+repeat_count = (purchase_counts > 1).sum()
+repeat_percent = (
+    repeat_count / customer_count * 100
+    if customer_count > 0 else float("nan")
+)
+
+customer_summary = pd.DataFrame({
+    "IdentifiedCustomers": [customer_count],
+    "SingleInvoiceCustomers": [(purchase_counts == 1).sum()],
+    "RepeatCustomers": [repeat_count],
+    "RepeatCustomerPercent": [repeat_percent],
+    "MedianPurchaseInvoices": [purchase_counts.median()]
+})
+
+print("\nPurchasing frequency among identified customers:")
+print(customer_summary.round(2).to_string(index=False))
+
+customer_summary.to_csv(
+    results_folder / "customer_purchase_summary.csv",
+    index=False
+)
+
+# Measure how much data each country contributes.
+country_coverage = sales.groupby("Country").agg(
+    SalesRows=("InvoiceNo", "size"),
+    PurchaseInvoices=("InvoiceNo", "nunique"),
+    IdentifiedCustomers=("CustomerID", "nunique"),
+    MissingCustomerIDRows=("CustomerID", lambda column: column.isna().sum())
+)
+
+country_coverage["MissingCustomerIDPercent"] = (
+    country_coverage["MissingCustomerIDRows"]
+    / country_coverage["SalesRows"] * 100
+)
+
+country_coverage = country_coverage.sort_values(
+    "SalesRows", ascending=False
+)
+
+print("\nCountry coverage — five countries with the most sales rows:")
+print(country_coverage.head(5).round(2).to_string())
+
+print("\nCountry coverage — five countries with the fewest sales rows:")
+print(country_coverage.tail(5).round(2).to_string())
+
+country_coverage.to_csv(results_folder / "country_coverage.csv")
