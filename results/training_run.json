@@ -1,0 +1,36 @@
+{
+  "model": "google/flan-t5-small",
+  "model_revision": null,
+  "seed": 928,
+  "epochs": 3,
+  "batch_size": 4,
+  "learning_rate": 5e-05,
+  "torch_version": "2.14.1+cu130",
+  "transformers_version": "5.18.0",
+  "gpu": "NVIDIA GeForce RTX 5090",
+  "original_validation_loss": 3.1393977504525985,
+  "selected_epoch": 3,
+  "selected_validation_loss": 0.4642097096060224,
+  "history": [
+    {
+      "epoch": 1,
+      "training_loss": 2.8552059952337516,
+      "validation_loss": 1.7162591851025253
+    },
+    {
+      "epoch": 2,
+      "training_loss": 1.7227139242932852,
+      "validation_loss": 0.8579895976088002
+    },
+    {
+      "epoch": 3,
+      "training_loss": 1.063977291058943,
+      "validation_loss": 0.4642097096060224
+    }
+  ],
+  "data_sha256": {
+    "train": "d2b7d3735377399540480b3bd510a525576413f3c2eca8599d2862d5dfa6f5d2",
+    "validation": "e7dbe6e5e5f1cff364135fa0cd5adbe9f8375edb6df00ecec83c179fed8e4577",
+    "test": "818da4b03360c9f2ed9fe50e2680f4a9d06267757697afae79a5b03e1855fb57"
+  }
+}
