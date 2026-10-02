@@ -1,0 +1,17 @@
+[project]
+name = "sba928-market-research"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Richard Watson Jr", email = "200259687+rwnycvet@users.noreply.github.com" }
+]
+requires-python = ">=3.14"
+dependencies = []
+
+[project.scripts]
+sba928-market-research = "sba928_market_research:main"
+
+[build-system]
+requires = ["uv_build>=0.12.17,<0.13.0"]
+build-backend = "uv_build"
