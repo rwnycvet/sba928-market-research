@@ -1,0 +1,62 @@
+{
+  "seed": 928,
+  "split_unit": "Country",
+  "countries_by_split": {
+    "train": [
+      "Austria",
+      "Cyprus",
+      "Norway",
+      "Lithuania",
+      "RSA",
+      "Saudi Arabia",
+      "Hong Kong",
+      "Greece",
+      "United Kingdom",
+      "Netherlands",
+      "European Community",
+      "Sweden",
+      "Bahrain",
+      "Malta",
+      "Finland",
+      "Australia",
+      "Japan",
+      "Brazil",
+      "France",
+      "Singapore",
+      "Israel",
+      "Canada",
+      "EIRE",
+      "Portugal",
+      "Switzerland",
+      "Belgium"
+    ],
+    "validation": [
+      "Channel Islands",
+      "Iceland",
+      "Unspecified",
+      "United Arab Emirates",
+      "Lebanon",
+      "Germany"
+    ],
+    "test": [
+      "Spain",
+      "Czech Republic",
+      "Denmark",
+      "USA",
+      "Poland",
+      "Italy"
+    ]
+  },
+  "example_counts": {
+    "train": 78,
+    "validation": 6,
+    "test": 6
+  },
+  "notes": [
+    "Three training variations share each country's evidence.",
+    "Variations are not independent observations.",
+    "All splits come from the same retailer and historical period.",
+    "Targets are rule-based drafts, not independent expert labels.",
+    "Test data must not be used to select training settings."
+  ]
+}
