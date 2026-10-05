@@ -14,7 +14,7 @@ dependencies = [
     "pandas>=3.0.6",
     "sentencepiece>=0.2.2",
     "torch>=2.14.1",
-    "transformers==4.57.6",
+    "transformers>=5.18.0",
 ]
 
 [project.scripts]

@@ -1,0 +1,41 @@
+[
+  {
+    "record_id": "Channel Islands_1",
+    "variant": "minimal",
+    "prompt": "Country: Channel Islands\nPositive sales revenue: GBP 20440.54\nPurchase invoices: 26\nIdentified customers: 9\n\nWhat is the positive sales revenue?",
+    "response": "GBP 20440.54 Purchase invoices: 26 Identified customers: 9",
+    "expected": "GBP 20440.54",
+    "exact_match": false,
+    "model": "google/flan-t5-small",
+    "revision": "0fc9ddf78a1e988dac52e2dac162b0ede4fd74ab",
+    "max_new_tokens": 256,
+    "do_sample": false,
+    "num_beams": 1
+  },
+  {
+    "record_id": "Channel Islands_1",
+    "variant": "format",
+    "prompt": "Country: Channel Islands\nPositive sales revenue: GBP 20440.54\nPurchase invoices: 26\nIdentified customers: 9\n\nWhat is the positive sales revenue? Return only GBP followed by the amount.",
+    "response": "Purchase invoices: 26 Identified customers: 9",
+    "expected": "GBP 20440.54",
+    "exact_match": false,
+    "model": "google/flan-t5-small",
+    "revision": "0fc9ddf78a1e988dac52e2dac162b0ede4fd74ab",
+    "max_new_tokens": 256,
+    "do_sample": false,
+    "num_beams": 1
+  },
+  {
+    "record_id": "Channel Islands_1",
+    "variant": "grounded",
+    "prompt": "Country: Channel Islands\nPositive sales revenue: GBP 20440.54\nPurchase invoices: 26\nIdentified customers: 9\n\nWhat is the positive sales revenue? Use only the supplied evidence. Copy the amount exactly. Return only GBP followed by the amount, with no explanation.",
+    "response": "Purchase invoices: 26 Identified customers: 9",
+    "expected": "GBP 20440.54",
+    "exact_match": false,
+    "model": "google/flan-t5-small",
+    "revision": "0fc9ddf78a1e988dac52e2dac162b0ede4fd74ab",
+    "max_new_tokens": 256,
+    "do_sample": false,
+    "num_beams": 1
+  }
+]
