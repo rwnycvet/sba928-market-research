@@ -1,0 +1,36 @@
+{
+  "model": "google/flan-t5-small",
+  "model_revision": "0fc9ddf78a1e988dac52e2dac162b0ede4fd74ab",
+  "seed": 928,
+  "epochs": 3,
+  "batch_size": 4,
+  "learning_rate": 5e-05,
+  "torch_version": "2.14.1+cu130",
+  "transformers_version": "4.57.6",
+  "gpu": "NVIDIA GeForce RTX 5090",
+  "original_validation_loss": 3.5434564468188166,
+  "selected_epoch": 3,
+  "selected_validation_loss": 3.2699645372537467,
+  "history": [
+    {
+      "epoch": 1,
+      "training_loss": 3.9027688127575497,
+      "validation_loss": 3.4263212032807178
+    },
+    {
+      "epoch": 2,
+      "training_loss": 3.798522284536651,
+      "validation_loss": 3.3372085033318934
+    },
+    {
+      "epoch": 3,
+      "training_loss": 3.5601005265207,
+      "validation_loss": 3.2699645372537467
+    }
+  ],
+  "data_sha256": {
+    "train": "28f74b53d1da336c877170a246c8ede98e6ea49f904b1af42967c2237f7f6fe4",
+    "validation": "fd11e056e6a0514a8db39bd8dae853bc2038f3f647887e8e3442ad7aa58b6361",
+    "test": "322eb3603d31bc1d75a148f555a84450f7a67234dbd36986c3c2a019a3677bb5"
+  }
+}

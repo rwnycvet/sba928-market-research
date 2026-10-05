@@ -1,0 +1,37 @@
+[
+  {
+    "id": "consumer_behavior_test_001",
+    "prompt": "Calculate the repeat-customer percentage and explain which customers it describes.\n\nEvidence:\nFictional test scenario, not Online Retail findings. There are 80 identified customers. Of these, 28 have at least two distinct qualifying purchase invoices. Qualifying purchases are non-cancelled and have positive quantities and prices. Another 120 qualifying sales rows lack CustomerIDs; the number of customers represented by those rows is unknown.\n\nAnswer:",
+    "reference": "35% of identified customers have at least two qualifying purchase invoices. This percentage excludes unidentified customers and is not a retention rate for all customers.",
+    "original_response": "5%",
+    "fine_tuned_response": "The repeat-customer percentage is a repeat-customer percentage."
+  },
+  {
+    "id": "country_coverage_test_001",
+    "prompt": "State whether the fewer-than-five-customers warning applies and explain its limits.\n\nEvidence:\nFictional test scenario, not Online Retail findings. Geographic label: Sampleland. Identified customers: 3. Purchase invoices: 18. Apply the warning when identified customers are below five, regardless of invoice count. The warning is descriptive, not a statistical test.\n\nAnswer:",
+    "reference": "The warning applies because Sampleland has 3 identified customers, despite having 18 purchase invoices. This descriptive rule does not establish statistical significance or national representativeness.",
+    "original_response": "Identify customers below five",
+    "fine_tuned_response": "Identify customers below five, regardless of invoice count."
+  },
+  {
+    "id": "market_trends_test_001",
+    "prompt": "Can these totals establish a decline in full-month revenue? Recommend an appropriate comparison.\n\nEvidence:\nFictional test scenario, not Online Retail findings. Complete August 2025 positive sales revenue: GBP 24000.00. September 1 through September 10, 2025 positive sales revenue: GBP 11000.00. Remaining September revenue is unavailable. Other sales definitions and coverage are consistent.\n\nAnswer:",
+    "reference": "No, ten days of September cannot establish a decline in full-month revenue compared with all of August. Obtain complete September revenue or compare equivalent date ranges.",
+    "original_response": "No",
+    "fine_tuned_response": "No, the totals are not a decline in full-month revenue."
+  },
+  {
+    "id": "product_demand_test_001",
+    "prompt": "Report the signed unit balance and assess whether these sales alone justify increasing inventory.\n\nEvidence:\nFictional test scenario, not Online Retail findings. Product: Display Stand C. Positive units: 2750. Cancelled units: 2750. Cancellations fully offset the positive purchases. Current stock and supplier lead times are unavailable.\n\nAnswer:",
+    "reference": "The signed balance is zero units because all 2750 positive units are offset by cancellations. These sales alone do not justify increasing inventory; review the transactions and inventory information before deciding replenishment.",
+    "original_response": "Negative units",
+    "fine_tuned_response": "Negative units are not a sufficient measure to offset the positive purchases."
+  },
+  {
+    "id": "competitor_research_test_001",
+    "prompt": "Identify which retailer reports higher revenue and by how much. Limit the conclusion to the supplied evidence.\n\nEvidence:\nFictional test scenario, not Online Retail findings. Retailer E reports GBP 14500.00 and Retailer F reports GBP 17200.00. Both figures cover the complete first quarter of 2025, the same product category and country, and use the same revenue definition before returns and cancellations. Total-market sales are unavailable.\n\nAnswer:",
+    "reference": "Retailer F reports GBP 2700.00 more revenue than Retailer E within the matched comparison. This does not establish overall market leadership or market share.",
+    "original_response": "Retailer F",
+    "fine_tuned_response": "Retailer E"
+  }
+]
