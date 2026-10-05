@@ -1,0 +1,22 @@
+[
+  {
+    "id": "consumer_synthetic_001",
+    "task_family": "consumer_behavior",
+    "source_type": "synthetic",
+    "source_group": "synthetic_purchase_frequency_pair_001",
+    "split": "train",
+    "instruction": "How many qualifying purchase invoices does this customer have, and do they meet the repeat-customer definition? Explain in two sentences.",
+    "context": "Fictional teaching scenario, not Online Retail findings. CustomerID: DEMO001. Three product rows have InvoiceNo values INV100, INV100 and INV100. All rows are non-cancelled purchases with positive quantities and unit prices. Define a repeat customer as an identified customer with at least two distinct qualifying purchase invoices during the recorded period.",
+    "target": "Customer DEMO001 has one distinct qualifying purchase invoice, so they do not meet the repeat-customer definition during the recorded period. Three product rows on the same invoice count as one purchase invoice, not three."
+  },
+  {
+    "id": "consumer_synthetic_002",
+    "task_family": "consumer_behavior",
+    "source_type": "synthetic",
+    "source_group": "synthetic_purchase_frequency_pair_001",
+    "split": "train",
+    "instruction": "How many qualifying purchase invoices does this customer have, and do they meet the repeat-customer definition? Explain in two sentences.",
+    "context": "Fictional teaching scenario, not Online Retail findings. CustomerID: DEMO001. Three product rows have InvoiceNo values INV100, INV100 and INV200. All rows are non-cancelled purchases with positive quantities and unit prices. Define a repeat customer as an identified customer with at least two distinct qualifying purchase invoices during the recorded period.",
+    "target": "Customer DEMO001 has two distinct qualifying purchase invoices, so they meet the repeat-customer definition during the recorded period. This classification alone does not establish customer loyalty or explain purchasing motives."
+  }
+]

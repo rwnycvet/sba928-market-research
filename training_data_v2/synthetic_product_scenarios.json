@@ -1,0 +1,22 @@
+[
+  {
+    "id": "product_synthetic_001",
+    "task_family": "product_demand",
+    "source_type": "synthetic",
+    "source_group": "synthetic_product_cancellation_pair_001",
+    "split": "train",
+    "instruction": "Summarize the cancellation-adjusted unit balance and recommend one inventory planning action. Do not specify a reorder quantity.",
+    "context": "Fictional teaching scenario, not Online Retail findings. Product: Storage Box A. Positive units sold: 1000. Cancelled units: 1000. Signed units including cancellations: 0. The cancellation records fully offset the recorded positive purchases. Current stock, supplier lead times and sales lost through stockouts are unknown.",
+    "target": "The 1000 positive units are fully offset by cancellations, leaving a signed balance of zero units. Review the cancelled transactions before considering replenishment; the positive-sales total alone does not justify increasing inventory."
+  },
+  {
+    "id": "product_synthetic_002",
+    "task_family": "product_demand",
+    "source_type": "synthetic",
+    "source_group": "synthetic_product_cancellation_pair_001",
+    "split": "train",
+    "instruction": "Summarize the cancellation-adjusted unit balance and recommend one inventory planning action. Do not specify a reorder quantity.",
+    "context": "Fictional teaching scenario, not Online Retail findings. Product: Storage Box A. Positive units sold: 1000. Cancelled units: 20. Signed units including cancellations: 980. Current stock, supplier lead times and sales lost through stockouts are unknown.",
+    "target": "After accounting for 20 cancelled units, the recorded signed balance is 980 units. Review current stock and supplier lead times against the timing of these sales to assess replenishment needs; these totals do not establish an exact reorder quantity or capture demand lost through stockouts."
+  }
+]

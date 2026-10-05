@@ -1,0 +1,13 @@
+{
+  "id": "consumer_behavior_real_001",
+  "task_family": "consumer_behavior",
+  "source_type": "real_data_summary",
+  "source_group": "uci_online_retail_customer_summary",
+  "source_files": [
+    "results/customer_purchase_summary.csv"
+  ],
+  "instruction": "Report the repeat-customer percentage and explain which customers it describes. Answer in two sentences.",
+  "context": "Identified customers: 4338. Customers with at least two qualifying purchase invoices: 2845. Repeat-customer percentage: 65.58%. Only positive, non-cancelled purchase rows are included. Rows without CustomerIDs are excluded from this calculation.",
+  "target": "65.58% of identified customers had at least two qualifying purchase invoices during the recorded period. This describes customers with recorded IDs and is not a retention rate for all customers.",
+  "split": "train"
+}

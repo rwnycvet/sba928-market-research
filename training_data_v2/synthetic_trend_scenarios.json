@@ -1,0 +1,22 @@
+[
+  {
+    "id": "trends_synthetic_001",
+    "task_family": "market_trends",
+    "source_type": "synthetic",
+    "source_group": "synthetic_monthly_comparison_pair_001",
+    "split": "train",
+    "instruction": "Does the evidence show a decrease in recorded monthly positive sales revenue? Explain without assuming a cause.",
+    "context": "Fictional teaching scenario, not Online Retail findings. April 2025 positive sales revenue: GBP 10000.00, covering the complete month. May 2025 positive sales revenue: GBP 8000.00, covering the complete month. Both totals describe the same retailer, product categories and countries using the same revenue definition. Revenue is before deductions for returns and cancellations.",
+    "target": "Yes, recorded positive sales revenue decreased by GBP 2000.00, or 20%, between the two complete months. These totals alone do not explain the decrease or establish a recurring seasonal pattern."
+  },
+  {
+    "id": "trends_synthetic_002",
+    "task_family": "market_trends",
+    "source_type": "synthetic",
+    "source_group": "synthetic_monthly_comparison_pair_001",
+    "split": "train",
+    "instruction": "Does the evidence establish a decrease in full-month positive sales revenue? Explain what comparison is needed.",
+    "context": "Fictional teaching scenario, not Online Retail findings. April 2025 positive sales revenue: GBP 10000.00, covering the complete month. May 2025 positive sales revenue: GBP 8000.00, covering only May 1 through May 15. Both totals describe the same retailer, product categories and countries using the same revenue definition. Revenue for the remainder of May is unavailable.",
+    "target": "No, May covers only its first 15 days, so its partial total does not establish a decrease in full-month revenue. Obtain complete May data for a full-month comparison, or compare equivalent date ranges to assess sales over matching periods."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "competitor_synthetic_001",
+    "task_family": "competitor_research",
+    "source_type": "synthetic",
+    "source_group": "synthetic_competitor_pair_001",
+    "split": "train",
+    "instruction": "Does Retailer A have higher reported sales revenue than Retailer B within the supplied comparison? Explain the scope of your conclusion.",
+    "context": "Fictional teaching scenario, not Online Retail findings. Both retailers report complete January 2025 sales for household storage products in the United Kingdom, in GBP, before deductions for returns and cancellations. Retailer A reports GBP 12000.00. Retailer B reports GBP 10000.00. The figures use the same sales definition and coverage. Total-market revenue is unavailable.",
+    "target": "Yes, Retailer A reports GBP 2000.00 more sales revenue than Retailer B for the matched period, category and country. This comparison does not establish overall market leadership or market share."
+  },
+  {
+    "id": "competitor_synthetic_002",
+    "task_family": "competitor_research",
+    "source_type": "synthetic",
+    "source_group": "synthetic_competitor_pair_001",
+    "split": "train",
+    "instruction": "Do these figures support a fair conclusion that Retailer A outsells Retailer B? Explain what additional evidence is needed.",
+    "context": "Fictional teaching scenario, not Online Retail findings. Retailer A reports GBP 12000.00 for the full month of January 2025. Retailer B reports GBP 10000.00 for January 1 through January 15, 2025. Both figures cover household storage products in the United Kingdom before deductions for returns and cancellations. Sales for the remainder of Retailer B's month are unavailable.",
+    "target": "No, the figures cover different lengths of time, so they do not support a fair sales-performance comparison. Obtain revenue for matching dates using consistent product categories, countries, currencies and treatment of returns and cancellations."
+  }
+]

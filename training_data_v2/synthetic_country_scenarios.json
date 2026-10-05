@@ -1,0 +1,22 @@
+[
+  {
+    "id": "country_synthetic_001",
+    "task_family": "country_coverage",
+    "source_type": "synthetic",
+    "source_group": "synthetic_customer_threshold_pair_001",
+    "split": "train",
+    "instruction": "Does the fewer-than-five-identified-customers warning apply? State the customer count and one remaining limitation.",
+    "context": "Fictional teaching scenario, not Online Retail findings. Geographic label: Exampleland. Identified customers: 4. Apply the warning only when identified customers are below five. This is a descriptive teaching rule, not a statistical test. The records describe one retailer.",
+    "target": "Yes, Exampleland has 4 identified customers, which is fewer than five, so the descriptive small-sample warning applies. These records describe one retailer and do not establish national demand or population representativeness."
+  },
+  {
+    "id": "country_synthetic_002",
+    "task_family": "country_coverage",
+    "source_type": "synthetic",
+    "source_group": "synthetic_customer_threshold_pair_001",
+    "split": "train",
+    "instruction": "Does the fewer-than-five-identified-customers warning apply? State the customer count and one remaining limitation.",
+    "context": "Fictional teaching scenario, not Online Retail findings. Geographic label: Exampleland. Identified customers: 5. Apply the warning only when identified customers are below five. This is a descriptive teaching rule, not a statistical test. The records describe one retailer.",
+    "target": "No, Exampleland has 5 identified customers, which is not fewer than five, so the descriptive small-sample warning does not apply. These records still do not establish national demand or population representativeness."
+  }
+]
