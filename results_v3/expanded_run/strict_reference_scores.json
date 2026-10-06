@@ -1,0 +1,62 @@
+{
+  "original": {
+    "responses": 160,
+    "strict_reference_matches": 0,
+    "strict_reference_match_percent": 0.0,
+    "empty_responses": 12,
+    "source_groups": 80,
+    "groups_with_both_variants_matching": 0,
+    "by_task_family": {
+      "competitor_research": {
+        "matches": 0,
+        "responses": 32
+      },
+      "consumer_behavior": {
+        "matches": 0,
+        "responses": 32
+      },
+      "country_coverage": {
+        "matches": 0,
+        "responses": 32
+      },
+      "market_trends": {
+        "matches": 0,
+        "responses": 32
+      },
+      "product_demand": {
+        "matches": 0,
+        "responses": 32
+      }
+    }
+  },
+  "fine_tuned": {
+    "responses": 160,
+    "strict_reference_matches": 132,
+    "strict_reference_match_percent": 82.5,
+    "empty_responses": 0,
+    "source_groups": 80,
+    "groups_with_both_variants_matching": 64,
+    "by_task_family": {
+      "competitor_research": {
+        "matches": 32,
+        "responses": 32
+      },
+      "consumer_behavior": {
+        "matches": 32,
+        "responses": 32
+      },
+      "country_coverage": {
+        "matches": 15,
+        "responses": 32
+      },
+      "market_trends": {
+        "matches": 21,
+        "responses": 32
+      },
+      "product_demand": {
+        "matches": 32,
+        "responses": 32
+      }
+    }
+  }
+}

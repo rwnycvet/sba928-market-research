@@ -1,0 +1,94 @@
+{
+  "scope": "Previously reviewed controlled-label regression audit",
+  "scoring": "Yes/No decisions only; explanations scored separately",
+  "scenario_sha256": "36b157e177fc701d59f3d53eb53caa694d7f48ffb0eddf9b87c4c49e171588d4",
+  "scores": {
+    "original": {
+      "cases": 16,
+      "correct_decisions": 8,
+      "accuracy_percent": 50.0,
+      "missed_required_warnings": 8,
+      "false_warnings": 0,
+      "unclassified_responses": 0,
+      "scores_by_label": {
+        "Germany": {
+          "correct": 2,
+          "total": 4
+        },
+        "Brazil": {
+          "correct": 2,
+          "total": 4
+        },
+        "Unspecified": {
+          "correct": 2,
+          "total": 4
+        },
+        "Sampleland": {
+          "correct": 2,
+          "total": 4
+        }
+      },
+      "label_accuracy_gap_percentage_points": 0.0,
+      "consistent_customer_count_groups": 4,
+      "customer_count_groups": 4
+    },
+    "fine_tuned": {
+      "cases": 16,
+      "correct_decisions": 8,
+      "accuracy_percent": 50.0,
+      "missed_required_warnings": 8,
+      "false_warnings": 0,
+      "unclassified_responses": 0,
+      "scores_by_label": {
+        "Germany": {
+          "correct": 2,
+          "total": 4
+        },
+        "Brazil": {
+          "correct": 2,
+          "total": 4
+        },
+        "Unspecified": {
+          "correct": 2,
+          "total": 4
+        },
+        "Sampleland": {
+          "correct": 2,
+          "total": 4
+        }
+      },
+      "label_accuracy_gap_percentage_points": 0.0,
+      "consistent_customer_count_groups": 4,
+      "customer_count_groups": 4
+    },
+    "python_safeguard": {
+      "cases": 16,
+      "correct_decisions": 16,
+      "accuracy_percent": 100.0,
+      "missed_required_warnings": 0,
+      "false_warnings": 0,
+      "unclassified_responses": 0,
+      "scores_by_label": {
+        "Germany": {
+          "correct": 4,
+          "total": 4
+        },
+        "Brazil": {
+          "correct": 4,
+          "total": 4
+        },
+        "Unspecified": {
+          "correct": 4,
+          "total": 4
+        },
+        "Sampleland": {
+          "correct": 4,
+          "total": 4
+        }
+      },
+      "label_accuracy_gap_percentage_points": 0.0,
+      "consistent_customer_count_groups": 4,
+      "customer_count_groups": 4
+    }
+  }
+}

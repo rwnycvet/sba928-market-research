@@ -1,0 +1,116 @@
+{
+  "experiment": "Expanded five-task synthetic dataset with computed evidence",
+  "evaluation_scope": "Reserved v3 synthetic scenarios; two variants per group",
+  "dataset_manifest": {
+    "dataset_version": "v3_synthetic_computed_evidence",
+    "source_type": "synthetic",
+    "splits": {
+      "train": {
+        "examples": 640,
+        "source_groups": 320,
+        "examples_by_family": {
+          "country_coverage": 128,
+          "consumer_behavior": 128,
+          "market_trends": 128,
+          "product_demand": 128,
+          "competitor_research": 128
+        }
+      },
+      "validation": {
+        "examples": 160,
+        "source_groups": 80,
+        "examples_by_family": {
+          "country_coverage": 32,
+          "consumer_behavior": 32,
+          "market_trends": 32,
+          "product_demand": 32,
+          "competitor_research": 32
+        }
+      },
+      "test": {
+        "examples": 160,
+        "source_groups": 80,
+        "examples_by_family": {
+          "country_coverage": 32,
+          "consumer_behavior": 32,
+          "market_trends": 32,
+          "product_demand": 32,
+          "competitor_research": 32
+        }
+      }
+    },
+    "source_file_sha256": {
+      "country_cases.jsonl": "13a294f46c8f8e4db952a1debd7108a693aa4cd41aa4b79bd58a3e5c52c782ef",
+      "consumer_cases.jsonl": "39d3181fee54e3a2968383c4f223b00fae5d687b00716272c3b5adca3e46e87f",
+      "trend_cases.jsonl": "07d9fa967e20ace1512bcb182b44acbe4c29b39f009d73f8f649bc6fe7a86505",
+      "product_cases.jsonl": "711b64a11b3f24de2cbd4d0d1dffc12abe44847288ef28d58e020f20afb97ae0",
+      "competitor_cases.jsonl": "80b809e1748e5c0323cac0d909111ac0b0d375980741c96777f9dfba394db6c1"
+    },
+    "dataset_sha256": {
+      "train": "39fd2967e2768c194b1cb30735a4adf217338a48a0d45ccc9ef3898fb715c20b",
+      "validation": "439b333c1e34eae10a9ab88a1333ca9499d28ec8d4852ef6551ed698166373ea",
+      "test": "af210a4c55646e0850a618e3a6b1a5a5087a6a84c6bb43b730fc6f9902beff05"
+    },
+    "limitations": [
+      "All examples are fictional, not retailer findings.",
+      "Splits share templates and reasoning patterns.",
+      "Two prompt variations share each scenario's evidence.",
+      "Several tasks supply figures calculated by Python.",
+      "Performance does not establish autonomous arithmetic ability.",
+      "Previously reviewed v2 tests remain regression checks."
+    ]
+  },
+  "training_examples": 640,
+  "validation_examples": 160,
+  "test_examples": 160,
+  "optimizer_steps": 960,
+  "model": "google/flan-t5-small",
+  "model_revision": "0fc9ddf78a1e988dac52e2dac162b0ede4fd74ab",
+  "seed": 928,
+  "epochs": 6,
+  "batch_size": 4,
+  "learning_rate": 5e-05,
+  "torch_version": "2.14.1+cu130",
+  "transformers_version": "4.57.6",
+  "gpu": "NVIDIA GeForce RTX 5090",
+  "original_validation_loss": 3.4689041321372924,
+  "selected_epoch": 6,
+  "selected_validation_loss": 0.020700967392510098,
+  "history": [
+    {
+      "epoch": 1,
+      "training_loss": 1.6858986957563615,
+      "validation_loss": 0.31810854751952694
+    },
+    {
+      "epoch": 2,
+      "training_loss": 0.3689035264610783,
+      "validation_loss": 0.08648019796910382
+    },
+    {
+      "epoch": 3,
+      "training_loss": 0.16101269819228775,
+      "validation_loss": 0.04195593476374668
+    },
+    {
+      "epoch": 4,
+      "training_loss": 0.09081691586146827,
+      "validation_loss": 0.03248794678886077
+    },
+    {
+      "epoch": 5,
+      "training_loss": 0.058415004107025846,
+      "validation_loss": 0.0215418944400543
+    },
+    {
+      "epoch": 6,
+      "training_loss": 0.043392142060699364,
+      "validation_loss": 0.020700967392510098
+    }
+  ],
+  "data_sha256": {
+    "train": "39fd2967e2768c194b1cb30735a4adf217338a48a0d45ccc9ef3898fb715c20b",
+    "validation": "439b333c1e34eae10a9ab88a1333ca9499d28ec8d4852ef6551ed698166373ea",
+    "test": "af210a4c55646e0850a618e3a6b1a5a5087a6a84c6bb43b730fc6f9902beff05"
+  }
+}

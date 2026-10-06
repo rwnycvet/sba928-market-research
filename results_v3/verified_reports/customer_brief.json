@@ -1,0 +1,11 @@
+{
+  "source_file": "results/customer_purchase_summary.csv",
+  "method": "Python calculation and fixed report template",
+  "identified_customers": 4338,
+  "repeat_customers": 2845,
+  "single_invoice_customers": 1493,
+  "repeat_customer_percent": 65.58,
+  "finding": "2,845 of 4,338 identified customers (65.58%) had at least two distinct qualifying purchase invoices during the recorded period.",
+  "limitation": "This calculation excludes purchases without CustomerIDs. It describes repeat purchasing among identified customers and is not a retention rate for all customers.",
+  "recommendation": "Review purchase intervals and product choices among identified repeat customers before designing a marketing test."
+}

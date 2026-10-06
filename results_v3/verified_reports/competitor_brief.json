@@ -1,0 +1,27 @@
+{
+  "source_file": "results/country_revenue.csv",
+  "method": "Evidence-scope check and fixed report template",
+  "questions": [
+    {
+      "question": "Does this retailer outsell its competitors?",
+      "conclusion": "Cannot be determined from the supplied summary.",
+      "additional_data": "Competitor sales for matching dates, product categories and countries, using consistent currencies and treatment of returns and cancellations."
+    },
+    {
+      "question": "What is this retailer's market share?",
+      "conclusion": "Cannot be calculated without total-market sales.",
+      "additional_data": "Total-market sales covering the same period, categories, countries, sales channels and revenue definition."
+    },
+    {
+      "question": "How many retailers operate in each country?",
+      "conclusion": "Country sales groups do not measure retailer counts.",
+      "additional_data": "Dated business-register or industry data, with a consistent definition of retailer and a distinction between companies and store locations."
+    },
+    {
+      "question": "Can CustomerID counts measure competing retailers?",
+      "conclusion": "Customer identifiers do not establish competitor counts.",
+      "additional_data": "Verified competitor identities and business classifications."
+    }
+  ],
+  "limitation": "The supplied summary describes the retailer's sales by country. It contains no competitor revenue, competitor identities or total-market sales. Missing competitor evidence must not be treated as zero competitor sales."
+}

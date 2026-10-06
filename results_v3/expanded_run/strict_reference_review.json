@@ -1,0 +1,2882 @@
+[
+  {
+    "model": "original",
+    "id": "country_v3_test_000_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_000",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 4 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "No"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_000_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_000",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 4 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "Online Retail findings"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_001_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_001",
+    "strict_reference_match": false,
+    "reference": "No, the warning does not apply because there are 40 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "No"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_001_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_001",
+    "strict_reference_match": false,
+    "reference": "No, the warning does not apply because there are 40 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "Online Retail findings"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_002_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_002",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 4 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "No"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_002_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_002",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 4 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "Online Retail findings"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_003_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_003",
+    "strict_reference_match": false,
+    "reference": "No, the warning does not apply because there are 94 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "No"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_003_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_003",
+    "strict_reference_match": false,
+    "reference": "No, the warning does not apply because there are 94 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "Online Retail findings"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_004_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_004",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 1 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "No"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_004_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_004",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 1 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "Online Retail findings"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_005_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_005",
+    "strict_reference_match": false,
+    "reference": "No, the warning does not apply because there are 58 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "No"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_005_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_005",
+    "strict_reference_match": false,
+    "reference": "No, the warning does not apply because there are 58 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "Online Retail findings"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_006_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_006",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 2 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "No"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_006_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_006",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 2 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "Online Retail findings"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_007_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_007",
+    "strict_reference_match": false,
+    "reference": "No, the warning does not apply because there are 43 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "No"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_007_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_007",
+    "strict_reference_match": false,
+    "reference": "No, the warning does not apply because there are 43 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "Online Retail findings"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_008_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_008",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 4 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "No"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_008_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_008",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 4 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "Online Retail findings"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_009_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_009",
+    "strict_reference_match": false,
+    "reference": "No, the warning does not apply because there are 32 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "No"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_009_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_009",
+    "strict_reference_match": false,
+    "reference": "No, the warning does not apply because there are 32 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "Online Retail findings"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_010_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_010",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 2 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "No"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_010_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_010",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 2 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "Online Retail findings"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_011_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_011",
+    "strict_reference_match": false,
+    "reference": "No, the warning does not apply because there are 25 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "No"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_011_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_011",
+    "strict_reference_match": false,
+    "reference": "No, the warning does not apply because there are 25 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "Online Retail findings"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_012_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_012",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 1 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "No"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_012_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_012",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 1 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "Online Retail findings"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_013_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_013",
+    "strict_reference_match": false,
+    "reference": "No, the warning does not apply because there are 34 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "No"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_013_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_013",
+    "strict_reference_match": false,
+    "reference": "No, the warning does not apply because there are 34 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "Online Retail findings"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_014_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_014",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 1 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "No"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_014_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_014",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 1 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "Online Retail findings"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_015_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_015",
+    "strict_reference_match": false,
+    "reference": "No, the warning does not apply because there are 8 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "No"
+  },
+  {
+    "model": "original",
+    "id": "country_v3_test_015_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_015",
+    "strict_reference_match": false,
+    "reference": "No, the warning does not apply because there are 8 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "Online Retail findings"
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_000_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_000",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 36.47% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Customers with at least two distinct qualifying purchase invoices are not included in the customer-level calculation."
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_000_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_000",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 36.47% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Remaining customers are not included in the customer-level calculation."
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_001_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_001",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 59.77% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Customer IDs are not included in the customer-level calculation."
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_001_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_001",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 59.77% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Identify the customer-level calculation."
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_002_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_002",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 76.56% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Customers with at least two distinct qualifying purchase invoices are not included in the customer-level calculation."
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_002_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_002",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 76.56% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Use the following method to calculate repeat purchasing:"
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_003_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_003",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 80.07% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Customer IDs are not included in the customer-level calculation."
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_003_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_003",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 80.07% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Identify the customer."
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_004_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_004",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 8.39% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Customers with at least two distinct qualifying purchase invoices are not included in the customer-level calculation."
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_004_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_004",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 8.39% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Identify the customer."
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_005_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_005",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 83.33% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Customer IDs are not included in the customer-level calculation."
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_005_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_005",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 83.33% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Identify the customer."
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_006_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_006",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 87.70% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Customers with at least two distinct qualifying purchase invoices are not included in the customer-level calculation."
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_006_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_006",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 87.70% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Remaining customers are not included in the customer-level calculation."
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_007_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_007",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 96.97% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Customers with at least two distinct qualifying purchase invoices are 128. Repeat-purchase percentage calculated by Python: 96.97%"
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_007_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_007",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 96.97% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Identify the customer."
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_008_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_008",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 7.63% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Customer IDs are not included in the customer-level calculation."
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_008_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_008",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 7.63% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Identify the customer."
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_009_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_009",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 89.37% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Customer IDs are not included in the customer-level calculation."
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_009_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_009",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 89.37% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Identify the customer."
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_010_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_010",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 46.75% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Customers with at least two distinct qualifying purchase invoices are not included in the customer-level calculation."
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_010_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_010",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 46.75% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Use the following method to calculate repeat purchasing:"
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_011_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_011",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 5.98% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Customers with at least two distinct qualifying purchase invoices are not included in the customer-level calculation."
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_011_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_011",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 5.98% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Identify the customer."
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_012_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_012",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 44.53% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Customers with at least two distinct qualifying purchase invoices are not included in the customer-level calculation."
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_012_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_012",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 44.53% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Use the following method to calculate repeat purchasing:"
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_013_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_013",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 96.23% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Customer IDs are not included in the customer-level calculation."
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_013_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_013",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 96.23% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Identify customers with at least two distinct qualifying purchase invoices."
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_014_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_014",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 85.28% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Customer IDs are not included in the customer-level calculation."
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_014_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_014",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 85.28% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Remaining customers with at least two distinct qualifying purchase invoices."
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_015_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_015",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 76.15% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Customers with at least two distinct qualifying purchase invoices are 83. Repeat-purchase percentage calculated by Python: 76.15%. Qualifying sales rows without CustomerIDs: 0"
+  },
+  {
+    "model": "original",
+    "id": "consumer_v3_test_015_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_015",
+    "strict_reference_match": false,
+    "reference": "Among identified customers, 76.15% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Identify the customer."
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_000_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_000",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue increased by GBP 2056.23 (11.49%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Monthly revenue comparison: GBP 17900.85; complete month."
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_000_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_000",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue increased by GBP 2056.23 (11.49%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "                                                                                                                               "
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_001_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_001",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue decreased by GBP 17126.83 (49.81%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Monthly revenue is GBP -29.81%."
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_001_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_001",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue decreased by GBP 17126.83 (49.81%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "                                                                                                                               "
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_002_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_002",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue was unchanged between the two complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Monthly revenue is calculated by dividing the total revenue by the total revenue."
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_002_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_002",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue was unchanged between the two complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "                                                                                                                               "
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_003_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_003",
+    "strict_reference_match": false,
+    "reference": "The partial current month does not establish a decline in full-month revenue. Recommendation: obtain complete-month figures or compare equivalent date ranges.",
+    "response": "Monthly revenue is GBP 4138.24; monthly revenue is GBP 3235.56; monthly revenue is GBP 3235.56; monthly revenue is GBP 3235.56; monthly revenue is GBP 3235.56; monthly revenue is GBP 3235.56; monthly revenue is GBP 3235.56; monthly revenue is GBP 3235.56; monthly revenue is GBP 3235.56; monthly revenue is GBP 3235.56; monthly revenue is GBP 3235.56; monthly revenue is GBP 3235.56; monthly revenue is GBP 3235.56; monthly revenue is GBP 3235.56; monthly revenue is GBP 3235.56; monthly revenue is GBP 3235.56; monthly revenue is GBP 3235.56; monthly revenue is GBP 3235.56; monthly revenue is GBP 3235.56; monthly revenue is GBP 3235.56; monthly revenue is GBP 3235.56; monthly revenue is GBP 3235.56; monthly revenue is GBP 3235.56; monthly revenue is GBP 3235.56; monthly revenue is GBP 3235.56; monthly revenue is GBP 3"
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_003_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_003",
+    "strict_reference_match": false,
+    "reference": "The partial current month does not establish a decline in full-month revenue. Recommendation: obtain complete-month figures or compare equivalent date ranges.",
+    "response": "A full-month change has not been calculated because coverage differs."
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_004_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_004",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue increased by GBP 239.01 (9.28%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Monthly revenue is GBP 59.98; monthly revenue is GBP 59.98; monthly revenue is GBP 59.98; monthly revenue is GBP 59.98; monthly revenue is GBP 59.98; monthly revenue is GBP 59.98; monthly revenue is GBP 59.98; monthly revenue is GBP 59.98; monthly revenue is GBP 59.98; monthly revenue is GBP 59.98; monthly revenue is GBP 59.98; monthly revenue is GBP 59.98; monthly revenue is GBP 59.98; monthly revenue is GBP 59.98; monthly revenue is GBP 59.98; monthly revenue is GBP 59.98; monthly revenue is GBP 59.98; monthly revenue is GBP 59.98; monthly revenue is GBP 59.98; monthly revenue is GBP 59.98; monthly revenue is GBP 59.98; monthly revenue is GBP 59.98; monthly revenue is GBP 59.98; monthly revenue is GBP 59.98; monthly revenue is GBP 59.98; monthly revenue is GBP "
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_004_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_004",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue increased by GBP 239.01 (9.28%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "                                                                                                                               "
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_005_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_005",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue decreased by GBP 6041.98 (16.87%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Monthly revenue is GBP -29.87%."
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_005_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_005",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue decreased by GBP 6041.98 (16.87%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "                                                                                                                               "
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_006_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_006",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue was unchanged between the two complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Monthly revenue is GBP 17521.70."
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_006_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_006",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue was unchanged between the two complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "                                                                                                                               "
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_007_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_007",
+    "strict_reference_match": false,
+    "reference": "The partial current month does not establish a decline in full-month revenue. Recommendation: obtain complete-month figures or compare equivalent date ranges.",
+    "response": "Monthly revenue is GBP 24937.02 - GBP 15120.83."
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_007_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_007",
+    "strict_reference_match": false,
+    "reference": "The partial current month does not establish a decline in full-month revenue. Recommendation: obtain complete-month figures or compare equivalent date ranges.",
+    "response": "A full-month change has not been calculated because coverage differs."
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_008_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_008",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue increased by GBP 19913.98 (47.60%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Monthly revenue comparison: GBP 41838.97."
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_008_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_008",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue increased by GBP 19913.98 (47.60%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "                                                                                                                               "
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_009_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_009",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue decreased by GBP 108.60 (3.74%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Monthly revenue is GBP -2902.85 - GBP -29.85 - GBP -29.85 - GBP -29.85 - GBP -29.85 - GBP -29.85 - GBP -29.85 - GBP -29.85 - GBP -29.85 - GBP -29.85 - GBP -29.85 - GBP -29.85 - GBP -29.85 - GBP -29.85 - GBP -29.85 - GBP -29.85 - GBP -29.85 - GBP -29.85 - GBP -29.85 - GBP -29.85 - GBP -29.85 - GBP -29.85 - GBP -29.85 - GBP -29.85 - GBP -29.85 - GBP -29.85 - GBP -29.85 - GBP -29.85 - G"
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_009_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_009",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue decreased by GBP 108.60 (3.74%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "                                                                                                                               "
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_010_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_010",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue was unchanged between the two complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Monthly revenue is GBP 0.00."
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_010_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_010",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue was unchanged between the two complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "                                                                                                                               "
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_011_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_011",
+    "strict_reference_match": false,
+    "reference": "The partial current month does not establish a decline in full-month revenue. Recommendation: obtain complete-month figures or compare equivalent date ranges.",
+    "response": "Monthly revenue is GBP 11796.23; monthly revenue is GBP 8291.92; monthly revenue is GBP 8291.92; monthly revenue is GBP 8291.92; monthly revenue is GBP 8291.92; monthly revenue is GBP 8291.92; monthly revenue is GBP 8291.92; monthly revenue is GBP 8291.92; monthly revenue is GBP 8291.92; monthly revenue is GBP 8291.92; monthly revenue is GBP 8291.92; monthly revenue is GBP 8291.92; monthly revenue is GBP 8291.92; monthly revenue is GBP 8291.92; monthly revenue is GBP 8291.92; monthly revenue is GBP 8291.92; monthly revenue is GBP 8291.92; monthly revenue is GBP 8291.92; monthly revenue is GBP 8291.92; monthly revenue is GBP 8291.92; monthly revenue is GBP 8291.92; monthly revenue is GBP 8291.92; monthly revenue is GBP 8291.92; monthly revenue is"
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_011_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_011",
+    "strict_reference_match": false,
+    "reference": "The partial current month does not establish a decline in full-month revenue. Recommendation: obtain complete-month figures or compare equivalent date ranges.",
+    "response": "Neither totals describe the same retailer, product categories and countries. Revenue is before deductions for returns and cancellations."
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_012_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_012",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue increased by GBP 837.13 (2.62%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Monthly revenue is GBP 837.13."
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_012_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_012",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue increased by GBP 837.13 (2.62%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "                                                                                                                               "
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_013_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_013",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue decreased by GBP 7188.35 (32.30%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Monthly revenue is GBP 22254.69 - GBP 22254.69 - GBP 22254.69 - GBP 22254.69 - GBP 22254.69 - GBP 22254.69 - GBP 22254.69 - GBP 22254.69 - GBP 22254.69 - GBP 22254.69 - GBP 22254.69 - GBP 22254.69 - GBP 22254.69 - GBP 22254.69 - GBP 22254.69 - GBP 22254.69 - GBP 22254.69 - GBP 22254.69 - GBP 22254.69 - GBP 22254.69 - GBP 22254.69 - GBP 22254.69 - GBP 22254.69 - GBP 22254.69 - GBP 22254.69 - GBP 22254.69 - GBP 22254.69 - GBP 22254.69 - G"
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_013_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_013",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue decreased by GBP 7188.35 (32.30%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "                                                                                                                               "
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_014_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_014",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue was unchanged between the two complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Monthly revenue is GBP 5946.68 - GBP 5946.68 - GBP 5946.68 - GBP 5946.68 - GBP 5946.68 - GBP 5946.68 - GBP 5946.68 - GBP 5946.68 - GBP 5946.68 - GBP 5946.68 - GBP 5946.68 - GBP 5946.68 - GBP 5946.68 - GBP 5946.68 - GBP 5946.68 - GBP 5946.68 - GBP 5946.68 - GBP 5946.68 - GBP 5946.68 - GBP 5946.68 - GBP 5946.68 - GBP 5946.68 - GBP 5946.68 - GBP 5946.68 - GBP 5946.68 - GBP 5946.68 - GBP 5946.68 - GBP 5946.68 - G"
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_014_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_014",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue was unchanged between the two complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "                                                                                                                               "
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_015_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_015",
+    "strict_reference_match": false,
+    "reference": "The partial current month does not establish a decline in full-month revenue. Recommendation: obtain complete-month figures or compare equivalent date ranges.",
+    "response": "Monthly revenue is GBP 59.0; monthly revenue is GBP 59.0; monthly revenue is GBP 59.0; monthly revenue is GBP 59.0; monthly revenue is GBP 59.0; monthly revenue is GBP 59.0; monthly revenue is GBP 59.0; monthly revenue is GBP 59.0; monthly revenue is GBP 59.0; monthly revenue is GBP 59.0; monthly revenue is GBP 59.0; monthly revenue is GBP 59.0; monthly revenue is GBP 59.0; monthly revenue is GBP 59.0; monthly revenue is GBP 59.0; monthly revenue is GBP 59.0; monthly revenue is GBP 59.0; monthly revenue is GBP 59.0; monthly revenue is GBP 59.0; monthly revenue is GBP 59.0; monthly revenue is GBP 59.0; monthly revenue is GBP 59.0; monthly revenue is GBP 59.0; monthly revenue is GBP 59.0; monthly revenue is GBP 59.0; monthly revenue is GBP "
+  },
+  {
+    "model": "original",
+    "id": "trends_v3_test_015_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_015",
+    "strict_reference_match": false,
+    "reference": "The partial current month does not establish a decline in full-month revenue. Recommendation: obtain complete-month figures or compare equivalent date ranges.",
+    "response": "A full-month change has not been calculated because coverage differs."
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_000_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_000",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is zero. Recommendation: review transaction reversals before considering replenishment; an exact reorder quantity requires stock levels and supplier lead times.",
+    "response": "0"
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_000_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_000",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is zero. Recommendation: review transaction reversals before considering replenishment; an exact reorder quantity requires stock levels and supplier lead times.",
+    "response": "0"
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_001_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_001",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is 6288 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "Purchases are not re-ordered."
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_001_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_001",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is 6288 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "Negative units sold: 9133. Reversal units sold: 2845. Python-calculated signed unit balance: 6288. Reversal units sold: 9133. Reversal units sold: 9133. Reversal units sold: 2845. Reversal units sold: 2845. Reversal units sold: 2845. Reversal units sold: 2845. Reversal units sold: 2845. Reversal units sold: 2845. Reversal units sold: 2845. Reversal units sold: 2845. Reversal units sold: 2845. Reversal units sold: 2845. Reversal units sold: 2845. Reversal units sold: 2845. Reversal units sold: 2845. Reversal units sold: 2845. Reversal units sold: 2845. Reversal units sold: 2845. Reversal units sold: 2845. Reversal units sold: 2845. Reversal units sold: 2845. Reversal units sold: 2845. Reversal units sold: 2845. Reversal units sold: 2845. Reversal units sold: 2845. Re"
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_002_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_002",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is 834 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "Reversal units sold are sold at a discounted rate."
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_002_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_002",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is 834 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "Negative units sold: 834. Reversal units sold: 0; reversal units sold: 0; reversal units sold: 0; reversal units sold: 0; reversal units sold: 0; reversal units sold: 0; reversal units sold: 0; reversal units sold: 0; reversal units sold: 0; reversal units sold: 0; reversal units sold: 0; reversal units sold: 0; reversal units sold: 0; reversal units sold: 0; reversal units sold: 0; reversal units sold: 0; reversal units sold: 0; reversal units sold: 0; reversal units sold: 0; reversal units sold: 0; reversal units sold: 0; reversal units sold: 0; reversal units sold: 0; reversal units sold: 0; reversal units sold: 0"
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_003_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_003",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is -4310, because reversal units exceed positive units during the recorded period. Recommendation: review transaction timing and matching before considering replenishment; stock levels and supplier lead times are missing.",
+    "response": "Purchases are not re-ordered."
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_003_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_003",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is -4310, because reversal units exceed positive units during the recorded period. Recommendation: review transaction timing and matching before considering replenishment; stock levels and supplier lead times are missing.",
+    "response": "Negative units sold: 4879. Reversal units sold: 9189. Reversal units sold: 9189. Reversal units sold: 9189. Reversal units sold: 9189. Reversal units sold: 9189. Reversal units sold: 9189. Reversal units sold: 9189. Reversal units sold: 9189. Reversal units sold: 9189. Reversal units sold: 9189. Reversal units sold: 9189. Reversal units sold: 9189. Reversal units sold: 9189. Reversal units sold: 9189. Reversal units sold: 9189. Reversal units sold: 9189. Reversal units sold: 9189. Reversal units sold: 9189. Reversal units sold: 9189. Reversal units sold: 9189. Reversal units sold: 9189. Reversal units sold: 9189. Reversal units sold: 9189. Reversal units sold: 9189. Reversal units sold: 9189. Reversal units sold: 9189. Reversal units sold: 9189. Reversal units sold"
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_004_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_004",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is zero. Recommendation: review transaction reversals before considering replenishment; an exact reorder quantity requires stock levels and supplier lead times.",
+    "response": "0"
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_004_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_004",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is zero. Recommendation: review transaction reversals before considering replenishment; an exact reorder quantity requires stock levels and supplier lead times.",
+    "response": "0"
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_005_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_005",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is 1243 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "Purchases are not re-ordered."
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_005_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_005",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is 1243 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "Negative units sold at auction are sold at auction."
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_006_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_006",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is 7974 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "Negative units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: "
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_006_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_006",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is 7974 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "Negative units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: 7974. Reversal units sold: "
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_007_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_007",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is -5105, because reversal units exceed positive units during the recorded period. Recommendation: review transaction timing and matching before considering replenishment; stock levels and supplier lead times are missing.",
+    "response": "-5105"
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_007_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_007",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is -5105, because reversal units exceed positive units during the recorded period. Recommendation: review transaction timing and matching before considering replenishment; stock levels and supplier lead times are missing.",
+    "response": "Negative units sold: 9265. Reversal units sold: 14370. Python-calculated signed unit balance: -5105. The balance subtracts reversal units from positive units. Reversals have not been matched to original purchases and may relate to purchases outside the recorded period. Current stock, supplier lead times and demand lost through stockouts are unavailable."
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_008_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_008",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is zero. Recommendation: review transaction reversals before considering replenishment; an exact reorder quantity requires stock levels and supplier lead times.",
+    "response": "0"
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_008_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_008",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is zero. Recommendation: review transaction reversals before considering replenishment; an exact reorder quantity requires stock levels and supplier lead times.",
+    "response": "0"
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_009_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_009",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is 666 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "Purchases are not re-ordered."
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_009_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_009",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is 666 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "Negative units sold: 1182. Reversal units sold: 516. Python-calculated signed unit balance: 666. The balance subtracts reversal units from positive units. Reversals have not been matched to original purchases and may relate to purchases outside the recorded period. Current stock, supplier lead times and demand lost through stockouts are unavailable."
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_010_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_010",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is 2849 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "Reversal units sold are sold at a discounted rate."
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_010_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_010",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is 2849 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "Negative units sold: 2849. Reversal units sold: 0 reversal units: 0 Python-calculated signed unit balance: 2849. The balance reversal units from positive units are not matched to original purchases and may relate to purchases outside the recorded period. Current stock, supplier lead times and demand lost through stockouts are unavailable."
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_011_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_011",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is -3613, because reversal units exceed positive units during the recorded period. Recommendation: review transaction timing and matching before considering replenishment; stock levels and supplier lead times are missing.",
+    "response": "Purchased units are sold at a discounted rate of -3613."
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_011_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_011",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is -3613, because reversal units exceed positive units during the recorded period. Recommendation: review transaction timing and matching before considering replenishment; stock levels and supplier lead times are missing.",
+    "response": "Negative units sold: 3869. Reversal units sold: 7482. Reversal units sold: 7482. Reversal units sold: 7482. Reversal units sold: 7482. Reversal units sold: 7482. Reversal units sold: 7482. Reversal units sold: 7482. Reversal units sold: 7482. Reversal units sold: 7482. Reversal units sold: 7482. Reversal units sold: 7482. Reversal units sold: 7482. Reversal units sold: 7482. Reversal units sold: 7482. Reversal units sold: 7482. Reversal units sold: 7482. Reversal units sold: 7482. Reversal units sold: 7482. Reversal units sold: 7482. Reversal units sold: 7482. Reversal units sold: 7482. Reversal units sold: 7482. Reversal units sold: 7482. Reversal units sold: 7482. Reversal units sold: 74"
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_012_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_012",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is zero. Recommendation: review transaction reversals before considering replenishment; an exact reorder quantity requires stock levels and supplier lead times.",
+    "response": "0"
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_012_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_012",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is zero. Recommendation: review transaction reversals before considering replenishment; an exact reorder quantity requires stock levels and supplier lead times.",
+    "response": "0"
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_013_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_013",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is 1851 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "Purchases are not re-ordered."
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_013_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_013",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is 1851 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "Negative units sold: 3447. Recorded reversal units: 1596. Python-calculated signed unit balance: 1851. The balance subtracts reversal units from positive units. Reversals have not been matched to original purchases and may relate to purchases outside the recorded period. Current stock, supplier lead times and demand lost through stockouts are unavailable."
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_014_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_014",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is 7990 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "Purchases are not re-ordered."
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_014_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_014",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is 7990 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "Negative units sold: 7990. Reversal units sold: 0 reversal units: 0 reversal units: 0 reversal units: 0 reversal units: 0 reversal units: 0 reversal units: 0 reversal units: 0 reversal units: 0 reversal units: 0 reversal units: 0 reversal units: 0 reversal units: 0 reversal units: 0 reversal units: 0 reversal units: 0 reversal units: 0 reversal units: 0 reversal units: 0 reversal units: 0 reversal units: 0 reversal units: 0 reversal units: 0 reversal units: 0 reversal units: 0 reversal units: 0 reversal units: 0 reversal units: 0 reversal units: 0 reversal units: 0 reversal units: 0"
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_015_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_015",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is -2580, because reversal units exceed positive units during the recorded period. Recommendation: review transaction timing and matching before considering replenishment; stock levels and supplier lead times are missing.",
+    "response": "Purchases are not re-ordered."
+  },
+  {
+    "model": "original",
+    "id": "product_v3_test_015_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_015",
+    "strict_reference_match": false,
+    "reference": "The recorded signed unit balance is -2580, because reversal units exceed positive units during the recorded period. Recommendation: review transaction timing and matching before considering replenishment; stock levels and supplier lead times are missing.",
+    "response": "Negative units sold at auction are sold at auction."
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_000_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_000",
+    "strict_reference_match": false,
+    "reference": "Yes, the figures are comparable; Retailer A reports GBP 4646.13 more revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "a fair revenue comparison"
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_000_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_000",
+    "strict_reference_match": false,
+    "reference": "Yes, the figures are comparable; Retailer A reports GBP 4646.13 more revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "Retailer A revenue is GBP 48965.03."
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_001_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_001",
+    "strict_reference_match": false,
+    "reference": "The evidence does not support a fair revenue comparison. The reporting periods differ. Obtain sales for matching dates.",
+    "response": "a fair revenue comparison"
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_001_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_001",
+    "strict_reference_match": false,
+    "reference": "The evidence does not support a fair revenue comparison. The reporting periods differ. Obtain sales for matching dates.",
+    "response": "Retailer A"
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_002_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_002",
+    "strict_reference_match": false,
+    "reference": "Yes, the figures are comparable; Retailer B reports GBP 4035.23 more revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "a fair revenue comparison"
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_002_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_002",
+    "strict_reference_match": false,
+    "reference": "Yes, the figures are comparable; Retailer B reports GBP 4035.23 more revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "Retailer B revenue: GBP 23878.70."
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_003_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_003",
+    "strict_reference_match": false,
+    "reference": "The evidence does not support a fair revenue comparison. The product categories differ. Obtain sales for matching categories.",
+    "response": "a fair revenue comparison"
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_003_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_003",
+    "strict_reference_match": false,
+    "reference": "The evidence does not support a fair revenue comparison. The product categories differ. Obtain sales for matching categories.",
+    "response": "Retailer A"
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_004_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_004",
+    "strict_reference_match": false,
+    "reference": "Yes, the figures are comparable; Both retailers report equal revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "a fair revenue comparison"
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_004_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_004",
+    "strict_reference_match": false,
+    "reference": "Yes, the figures are comparable; Both retailers report equal revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "Both use revenue before return and cancellation deductions. Total-market sales are unavailable."
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_005_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_005",
+    "strict_reference_match": false,
+    "reference": "The evidence does not support a fair revenue comparison. The countries differ. Obtain sales for matching countries.",
+    "response": "a fair revenue comparison"
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_005_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_005",
+    "strict_reference_match": false,
+    "reference": "The evidence does not support a fair revenue comparison. The countries differ. Obtain sales for matching countries.",
+    "response": "Both use revenue before return and cancellation deductions. Total-market sales are unavailable."
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_006_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_006",
+    "strict_reference_match": false,
+    "reference": "Yes, the figures are comparable; Retailer A reports GBP 1197.03 more revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "a fair revenue comparison"
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_006_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_006",
+    "strict_reference_match": false,
+    "reference": "Yes, the figures are comparable; Retailer A reports GBP 1197.03 more revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "Retailer A revenue is GBP 61480.82."
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_007_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_007",
+    "strict_reference_match": false,
+    "reference": "The evidence does not support a fair revenue comparison. The currencies differ. Convert both figures to a common currency using an appropriate documented exchange-rate method.",
+    "response": "a fair revenue comparison"
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_007_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_007",
+    "strict_reference_match": false,
+    "reference": "The evidence does not support a fair revenue comparison. The currencies differ. Convert both figures to a common currency using an appropriate documented exchange-rate method.",
+    "response": "Both use revenue before return and cancellation deductions. Total-market sales are unavailable."
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_008_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_008",
+    "strict_reference_match": false,
+    "reference": "Yes, the figures are comparable; Retailer B reports GBP 6076.30 more revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "a fair revenue comparison"
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_008_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_008",
+    "strict_reference_match": false,
+    "reference": "Yes, the figures are comparable; Retailer B reports GBP 6076.30 more revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "Both use revenue before return and cancellation deductions. Total-market sales are unavailable."
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_009_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_009",
+    "strict_reference_match": false,
+    "reference": "The evidence does not support a fair revenue comparison. Retailer B's revenue is unavailable. Obtain comparable competitor revenue for matching dates, categories and countries.",
+    "response": "a fair revenue comparison"
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_009_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_009",
+    "strict_reference_match": false,
+    "reference": "The evidence does not support a fair revenue comparison. Retailer B's revenue is unavailable. Obtain comparable competitor revenue for matching dates, categories and countries.",
+    "response": "Both use revenue before return and cancellation deductions. Total-market sales are unavailable."
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_010_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_010",
+    "strict_reference_match": false,
+    "reference": "Yes, the figures are comparable; Both retailers report equal revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "a fair revenue comparison"
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_010_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_010",
+    "strict_reference_match": false,
+    "reference": "Yes, the figures are comparable; Both retailers report equal revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "Both use revenue before return and cancellation deductions. Total-market sales are unavailable."
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_011_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_011",
+    "strict_reference_match": false,
+    "reference": "The evidence does not support a fair revenue comparison. The reporting periods differ. Obtain sales for matching dates.",
+    "response": "a fair revenue comparison"
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_011_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_011",
+    "strict_reference_match": false,
+    "reference": "The evidence does not support a fair revenue comparison. The reporting periods differ. Obtain sales for matching dates.",
+    "response": "Retailer A"
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_012_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_012",
+    "strict_reference_match": false,
+    "reference": "Yes, the figures are comparable; Retailer A reports GBP 18013.30 more revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "a fair revenue comparison"
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_012_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_012",
+    "strict_reference_match": false,
+    "reference": "Yes, the figures are comparable; Retailer A reports GBP 18013.30 more revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "Retailer A revenue is GBP 19013.30."
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_013_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_013",
+    "strict_reference_match": false,
+    "reference": "The evidence does not support a fair revenue comparison. The product categories differ. Obtain sales for matching categories.",
+    "response": "a fair revenue comparison"
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_013_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_013",
+    "strict_reference_match": false,
+    "reference": "The evidence does not support a fair revenue comparison. The product categories differ. Obtain sales for matching categories.",
+    "response": "Retailer A"
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_014_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_014",
+    "strict_reference_match": false,
+    "reference": "Yes, the figures are comparable; Retailer B reports GBP 13755.07 more revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "a fair revenue comparison"
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_014_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_014",
+    "strict_reference_match": false,
+    "reference": "Yes, the figures are comparable; Retailer B reports GBP 13755.07 more revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "Retailer B revenue: GBP 29548.53. Retailer B revenue: GBP 43303.60. Retailer B revenue: GBP 43303.60. Retailer B revenue: GBP 43303.60. Retailer B revenue: GBP 43303.60. Retailer B revenue: GBP 43303.60. Retailer B revenue: GBP 43303.60. Retailer B revenue: GBP 43303.60. Retailer B revenue: GBP 43303.60. Retailer B revenue: GBP 43303.60. Retailer B revenue: GBP 43303.60. Retailer B revenue: GBP 43303.60. Retailer B revenue: GBP 43303.60. Retailer B revenue: GBP 43303.60. Retailer B revenue: GBP 43303.60. Retailer B revenue: GBP 43303.60. Retailer B revenue: GBP 43303.60. Retailer B revenue: GBP 43303.60. Retailer B revenue: GBP 43303.60. Retailer B revenue: GBP 43303.60. Retailer B revenue: GBP 43303.60. Retailer B revenue:"
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_015_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_015",
+    "strict_reference_match": false,
+    "reference": "The evidence does not support a fair revenue comparison. The countries differ. Obtain sales for matching countries.",
+    "response": "a fair revenue comparison"
+  },
+  {
+    "model": "original",
+    "id": "competitor_v3_test_015_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_015",
+    "strict_reference_match": false,
+    "reference": "The evidence does not support a fair revenue comparison. The countries differ. Obtain sales for matching countries.",
+    "response": "Both use revenue before return and cancellation deductions. Total-market sales are unavailable."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_000_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_000",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 4 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 4 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_000_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_000",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 4 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 4 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_001_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_001",
+    "strict_reference_match": true,
+    "reference": "No, the warning does not apply because there are 40 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 40 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_001_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_001",
+    "strict_reference_match": true,
+    "reference": "No, the warning does not apply because there are 40 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 40 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_002_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_002",
+    "strict_reference_match": true,
+    "reference": "Yes, the warning applies because there are 4 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "Yes, the warning applies because there are 4 identified customers, fewer than five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_002_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_002",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 4 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 4 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_003_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_003",
+    "strict_reference_match": true,
+    "reference": "No, the warning does not apply because there are 94 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 94 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_003_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_003",
+    "strict_reference_match": true,
+    "reference": "No, the warning does not apply because there are 94 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 94 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_004_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_004",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 1 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 1 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_004_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_004",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 1 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 1 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_005_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_005",
+    "strict_reference_match": false,
+    "reference": "No, the warning does not apply because there are 58 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "Yes, the warning applies because there are 58 identified customers, fewer than five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_005_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_005",
+    "strict_reference_match": true,
+    "reference": "No, the warning does not apply because there are 58 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 58 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_006_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_006",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 2 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 2 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_006_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_006",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 2 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 2 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_007_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_007",
+    "strict_reference_match": true,
+    "reference": "No, the warning does not apply because there are 43 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 43 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_007_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_007",
+    "strict_reference_match": true,
+    "reference": "No, the warning does not apply because there are 43 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 43 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_008_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_008",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 4 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 4 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_008_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_008",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 4 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 4 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_009_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_009",
+    "strict_reference_match": true,
+    "reference": "No, the warning does not apply because there are 32 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 32 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_009_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_009",
+    "strict_reference_match": true,
+    "reference": "No, the warning does not apply because there are 32 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 32 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_010_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_010",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 2 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 2 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_010_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_010",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 2 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 2 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_011_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_011",
+    "strict_reference_match": true,
+    "reference": "No, the warning does not apply because there are 25 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 25 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_011_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_011",
+    "strict_reference_match": true,
+    "reference": "No, the warning does not apply because there are 25 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 25 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_012_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_012",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 1 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 1 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_012_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_012",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 1 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 1 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_013_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_013",
+    "strict_reference_match": false,
+    "reference": "No, the warning does not apply because there are 34 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "Yes, the warning applies because there are 34 identified customers, fewer than five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_013_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_013",
+    "strict_reference_match": true,
+    "reference": "No, the warning does not apply because there are 34 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 34 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_014_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_014",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 1 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 1 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_014_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_014",
+    "strict_reference_match": false,
+    "reference": "Yes, the warning applies because there are 1 identified customers, fewer than five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 1 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_015_variant_1",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_015",
+    "strict_reference_match": true,
+    "reference": "No, the warning does not apply because there are 8 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 8 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "country_v3_test_015_variant_2",
+    "task_family": "country_coverage",
+    "source_group": "country_v3_test_015",
+    "strict_reference_match": true,
+    "reference": "No, the warning does not apply because there are 8 identified customers, at least five. These records do not establish national demand or population representativeness.",
+    "response": "No, the warning does not apply because there are 8 identified customers, at least five. These records do not establish national demand or population representativeness."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_000_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_000",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 36.47% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 36.47% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_000_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_000",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 36.47% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 36.47% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_001_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_001",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 59.77% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 59.77% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_001_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_001",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 59.77% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 59.77% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_002_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_002",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 76.56% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 76.56% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_002_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_002",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 76.56% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 76.56% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_003_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_003",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 80.07% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 80.07% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_003_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_003",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 80.07% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 80.07% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_004_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_004",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 8.39% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 8.39% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_004_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_004",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 8.39% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 8.39% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_005_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_005",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 83.33% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 83.33% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_005_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_005",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 83.33% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 83.33% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_006_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_006",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 87.70% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 87.70% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_006_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_006",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 87.70% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 87.70% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_007_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_007",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 96.97% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 96.97% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_007_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_007",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 96.97% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 96.97% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_008_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_008",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 7.63% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 7.63% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_008_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_008",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 7.63% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 7.63% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_009_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_009",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 89.37% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 89.37% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_009_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_009",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 89.37% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 89.37% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_010_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_010",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 46.75% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 46.75% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_010_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_010",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 46.75% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 46.75% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_011_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_011",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 5.98% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 5.98% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_011_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_011",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 5.98% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 5.98% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_012_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_012",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 44.53% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 44.53% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_012_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_012",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 44.53% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 44.53% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_013_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_013",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 96.23% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 96.23% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_013_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_013",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 96.23% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 96.23% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_014_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_014",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 85.28% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 85.28% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_014_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_014",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 85.28% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 85.28% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_015_variant_1",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_015",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 76.15% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 76.15% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "consumer_v3_test_015_variant_2",
+    "task_family": "consumer_behavior",
+    "source_group": "consumer_v3_test_015",
+    "strict_reference_match": true,
+    "reference": "Among identified customers, 76.15% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers.",
+    "response": "Among identified customers, 76.15% had at least two distinct qualifying purchase invoices. This describes repeat purchasing during the recorded period and is not a retention rate for all customers."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_000_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_000",
+    "strict_reference_match": true,
+    "reference": "Recorded positive sales revenue increased by GBP 2056.23 (11.49%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Recorded positive sales revenue increased by GBP 2056.23 (11.49%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_000_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_000",
+    "strict_reference_match": true,
+    "reference": "Recorded positive sales revenue increased by GBP 2056.23 (11.49%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Recorded positive sales revenue increased by GBP 2056.23 (11.49%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_001_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_001",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue decreased by GBP 17126.83 (49.81%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Recorded positive sales revenue decreased by GBP 17126.83 (4.89%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_001_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_001",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue decreased by GBP 17126.83 (49.81%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Recorded positive sales revenue decreased by GBP 17126.83 (4.89%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_002_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_002",
+    "strict_reference_match": true,
+    "reference": "Recorded positive sales revenue was unchanged between the two complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Recorded positive sales revenue was unchanged between the two complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_002_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_002",
+    "strict_reference_match": true,
+    "reference": "Recorded positive sales revenue was unchanged between the two complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Recorded positive sales revenue was unchanged between the two complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_003_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_003",
+    "strict_reference_match": true,
+    "reference": "The partial current month does not establish a decline in full-month revenue. Recommendation: obtain complete-month figures or compare equivalent date ranges.",
+    "response": "The partial current month does not establish a decline in full-month revenue. Recommendation: obtain complete-month figures or compare equivalent date ranges."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_003_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_003",
+    "strict_reference_match": true,
+    "reference": "The partial current month does not establish a decline in full-month revenue. Recommendation: obtain complete-month figures or compare equivalent date ranges.",
+    "response": "The partial current month does not establish a decline in full-month revenue. Recommendation: obtain complete-month figures or compare equivalent date ranges."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_004_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_004",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue increased by GBP 239.01 (9.28%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Recorded positive sales revenue decreased by GBP 239.01 (9.28%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_004_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_004",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue increased by GBP 239.01 (9.28%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Recorded positive sales revenue decreased by GBP 239.01 (9.28%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_005_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_005",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue decreased by GBP 6041.98 (16.87%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Recorded positive sales revenue decreased by GBP -6041.98 (16.87%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_005_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_005",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue decreased by GBP 6041.98 (16.87%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Recorded positive sales revenue decreased by GBP -6041.98 (16.87%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_006_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_006",
+    "strict_reference_match": true,
+    "reference": "Recorded positive sales revenue was unchanged between the two complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Recorded positive sales revenue was unchanged between the two complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_006_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_006",
+    "strict_reference_match": true,
+    "reference": "Recorded positive sales revenue was unchanged between the two complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Recorded positive sales revenue was unchanged between the two complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_007_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_007",
+    "strict_reference_match": true,
+    "reference": "The partial current month does not establish a decline in full-month revenue. Recommendation: obtain complete-month figures or compare equivalent date ranges.",
+    "response": "The partial current month does not establish a decline in full-month revenue. Recommendation: obtain complete-month figures or compare equivalent date ranges."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_007_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_007",
+    "strict_reference_match": true,
+    "reference": "The partial current month does not establish a decline in full-month revenue. Recommendation: obtain complete-month figures or compare equivalent date ranges.",
+    "response": "The partial current month does not establish a decline in full-month revenue. Recommendation: obtain complete-month figures or compare equivalent date ranges."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_008_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_008",
+    "strict_reference_match": true,
+    "reference": "Recorded positive sales revenue increased by GBP 19913.98 (47.60%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Recorded positive sales revenue increased by GBP 19913.98 (47.60%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_008_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_008",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue increased by GBP 19913.98 (47.60%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Recorded positive sales revenue increased by GBP 19913.98 (17.60%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_009_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_009",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue decreased by GBP 108.60 (3.74%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Recorded positive sales revenue decreased by GBP 108.60 (33.74%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_009_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_009",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue decreased by GBP 108.60 (3.74%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Recorded positive sales revenue decreased by GBP 108.60 (33.74%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_010_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_010",
+    "strict_reference_match": true,
+    "reference": "Recorded positive sales revenue was unchanged between the two complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Recorded positive sales revenue was unchanged between the two complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_010_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_010",
+    "strict_reference_match": true,
+    "reference": "Recorded positive sales revenue was unchanged between the two complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Recorded positive sales revenue was unchanged between the two complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_011_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_011",
+    "strict_reference_match": true,
+    "reference": "The partial current month does not establish a decline in full-month revenue. Recommendation: obtain complete-month figures or compare equivalent date ranges.",
+    "response": "The partial current month does not establish a decline in full-month revenue. Recommendation: obtain complete-month figures or compare equivalent date ranges."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_011_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_011",
+    "strict_reference_match": true,
+    "reference": "The partial current month does not establish a decline in full-month revenue. Recommendation: obtain complete-month figures or compare equivalent date ranges.",
+    "response": "The partial current month does not establish a decline in full-month revenue. Recommendation: obtain complete-month figures or compare equivalent date ranges."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_012_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_012",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue increased by GBP 837.13 (2.62%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Recorded positive sales revenue decreased by GBP 837.13 (6.2%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_012_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_012",
+    "strict_reference_match": false,
+    "reference": "Recorded positive sales revenue increased by GBP 837.13 (2.62%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Recorded positive sales revenue decreased by GBP 837.13 (6.2%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_013_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_013",
+    "strict_reference_match": true,
+    "reference": "Recorded positive sales revenue decreased by GBP 7188.35 (32.30%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Recorded positive sales revenue decreased by GBP 7188.35 (32.30%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_013_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_013",
+    "strict_reference_match": true,
+    "reference": "Recorded positive sales revenue decreased by GBP 7188.35 (32.30%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Recorded positive sales revenue decreased by GBP 7188.35 (32.30%) between complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_014_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_014",
+    "strict_reference_match": true,
+    "reference": "Recorded positive sales revenue was unchanged between the two complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Recorded positive sales revenue was unchanged between the two complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_014_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_014",
+    "strict_reference_match": true,
+    "reference": "Recorded positive sales revenue was unchanged between the two complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern.",
+    "response": "Recorded positive sales revenue was unchanged between the two complete months. Recommendation: review inventory timing using this comparison without assuming a recurring seasonal pattern."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_015_variant_1",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_015",
+    "strict_reference_match": true,
+    "reference": "The partial current month does not establish a decline in full-month revenue. Recommendation: obtain complete-month figures or compare equivalent date ranges.",
+    "response": "The partial current month does not establish a decline in full-month revenue. Recommendation: obtain complete-month figures or compare equivalent date ranges."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "trends_v3_test_015_variant_2",
+    "task_family": "market_trends",
+    "source_group": "trends_v3_test_015",
+    "strict_reference_match": true,
+    "reference": "The partial current month does not establish a decline in full-month revenue. Recommendation: obtain complete-month figures or compare equivalent date ranges.",
+    "response": "The partial current month does not establish a decline in full-month revenue. Recommendation: obtain complete-month figures or compare equivalent date ranges."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_000_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_000",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is zero. Recommendation: review transaction reversals before considering replenishment; an exact reorder quantity requires stock levels and supplier lead times.",
+    "response": "The recorded signed unit balance is zero. Recommendation: review transaction reversals before considering replenishment; an exact reorder quantity requires stock levels and supplier lead times."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_000_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_000",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is zero. Recommendation: review transaction reversals before considering replenishment; an exact reorder quantity requires stock levels and supplier lead times.",
+    "response": "The recorded signed unit balance is zero. Recommendation: review transaction reversals before considering replenishment; an exact reorder quantity requires stock levels and supplier lead times."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_001_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_001",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is 6288 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "The recorded signed unit balance is 6288 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_001_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_001",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is 6288 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "The recorded signed unit balance is 6288 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_002_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_002",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is 834 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "The recorded signed unit balance is 834 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_002_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_002",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is 834 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "The recorded signed unit balance is 834 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_003_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_003",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is -4310, because reversal units exceed positive units during the recorded period. Recommendation: review transaction timing and matching before considering replenishment; stock levels and supplier lead times are missing.",
+    "response": "The recorded signed unit balance is -4310, because reversal units exceed positive units during the recorded period. Recommendation: review transaction timing and matching before considering replenishment; stock levels and supplier lead times are missing."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_003_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_003",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is -4310, because reversal units exceed positive units during the recorded period. Recommendation: review transaction timing and matching before considering replenishment; stock levels and supplier lead times are missing.",
+    "response": "The recorded signed unit balance is -4310, because reversal units exceed positive units during the recorded period. Recommendation: review transaction timing and matching before considering replenishment; stock levels and supplier lead times are missing."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_004_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_004",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is zero. Recommendation: review transaction reversals before considering replenishment; an exact reorder quantity requires stock levels and supplier lead times.",
+    "response": "The recorded signed unit balance is zero. Recommendation: review transaction reversals before considering replenishment; an exact reorder quantity requires stock levels and supplier lead times."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_004_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_004",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is zero. Recommendation: review transaction reversals before considering replenishment; an exact reorder quantity requires stock levels and supplier lead times.",
+    "response": "The recorded signed unit balance is zero. Recommendation: review transaction reversals before considering replenishment; an exact reorder quantity requires stock levels and supplier lead times."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_005_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_005",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is 1243 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "The recorded signed unit balance is 1243 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_005_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_005",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is 1243 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "The recorded signed unit balance is 1243 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_006_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_006",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is 7974 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "The recorded signed unit balance is 7974 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_006_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_006",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is 7974 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "The recorded signed unit balance is 7974 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_007_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_007",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is -5105, because reversal units exceed positive units during the recorded period. Recommendation: review transaction timing and matching before considering replenishment; stock levels and supplier lead times are missing.",
+    "response": "The recorded signed unit balance is -5105, because reversal units exceed positive units during the recorded period. Recommendation: review transaction timing and matching before considering replenishment; stock levels and supplier lead times are missing."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_007_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_007",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is -5105, because reversal units exceed positive units during the recorded period. Recommendation: review transaction timing and matching before considering replenishment; stock levels and supplier lead times are missing.",
+    "response": "The recorded signed unit balance is -5105, because reversal units exceed positive units during the recorded period. Recommendation: review transaction timing and matching before considering replenishment; stock levels and supplier lead times are missing."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_008_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_008",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is zero. Recommendation: review transaction reversals before considering replenishment; an exact reorder quantity requires stock levels and supplier lead times.",
+    "response": "The recorded signed unit balance is zero. Recommendation: review transaction reversals before considering replenishment; an exact reorder quantity requires stock levels and supplier lead times."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_008_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_008",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is zero. Recommendation: review transaction reversals before considering replenishment; an exact reorder quantity requires stock levels and supplier lead times.",
+    "response": "The recorded signed unit balance is zero. Recommendation: review transaction reversals before considering replenishment; an exact reorder quantity requires stock levels and supplier lead times."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_009_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_009",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is 666 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "The recorded signed unit balance is 666 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_009_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_009",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is 666 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "The recorded signed unit balance is 666 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_010_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_010",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is 2849 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "The recorded signed unit balance is 2849 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_010_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_010",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is 2849 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "The recorded signed unit balance is 2849 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_011_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_011",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is -3613, because reversal units exceed positive units during the recorded period. Recommendation: review transaction timing and matching before considering replenishment; stock levels and supplier lead times are missing.",
+    "response": "The recorded signed unit balance is -3613, because reversal units exceed positive units during the recorded period. Recommendation: review transaction timing and matching before considering replenishment; stock levels and supplier lead times are missing."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_011_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_011",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is -3613, because reversal units exceed positive units during the recorded period. Recommendation: review transaction timing and matching before considering replenishment; stock levels and supplier lead times are missing.",
+    "response": "The recorded signed unit balance is -3613, because reversal units exceed positive units during the recorded period. Recommendation: review transaction timing and matching before considering replenishment; stock levels and supplier lead times are missing."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_012_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_012",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is zero. Recommendation: review transaction reversals before considering replenishment; an exact reorder quantity requires stock levels and supplier lead times.",
+    "response": "The recorded signed unit balance is zero. Recommendation: review transaction reversals before considering replenishment; an exact reorder quantity requires stock levels and supplier lead times."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_012_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_012",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is zero. Recommendation: review transaction reversals before considering replenishment; an exact reorder quantity requires stock levels and supplier lead times.",
+    "response": "The recorded signed unit balance is zero. Recommendation: review transaction reversals before considering replenishment; an exact reorder quantity requires stock levels and supplier lead times."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_013_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_013",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is 1851 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "The recorded signed unit balance is 1851 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_013_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_013",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is 1851 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "The recorded signed unit balance is 1851 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_014_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_014",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is 7990 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "The recorded signed unit balance is 7990 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_014_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_014",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is 7990 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts.",
+    "response": "The recorded signed unit balance is 7990 after reversal deductions. Recommendation: review stock levels, supplier lead times and sales timing before deciding replenishment; recorded sales do not measure demand lost through stockouts."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_015_variant_1",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_015",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is -2580, because reversal units exceed positive units during the recorded period. Recommendation: review transaction timing and matching before considering replenishment; stock levels and supplier lead times are missing.",
+    "response": "The recorded signed unit balance is -2580, because reversal units exceed positive units during the recorded period. Recommendation: review transaction timing and matching before considering replenishment; stock levels and supplier lead times are missing."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "product_v3_test_015_variant_2",
+    "task_family": "product_demand",
+    "source_group": "product_v3_test_015",
+    "strict_reference_match": true,
+    "reference": "The recorded signed unit balance is -2580, because reversal units exceed positive units during the recorded period. Recommendation: review transaction timing and matching before considering replenishment; stock levels and supplier lead times are missing.",
+    "response": "The recorded signed unit balance is -2580, because reversal units exceed positive units during the recorded period. Recommendation: review transaction timing and matching before considering replenishment; stock levels and supplier lead times are missing."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_000_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_000",
+    "strict_reference_match": true,
+    "reference": "Yes, the figures are comparable; Retailer A reports GBP 4646.13 more revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "Yes, the figures are comparable; Retailer A reports GBP 4646.13 more revenue within the matched comparison. This does not establish overall market leadership or market share."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_000_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_000",
+    "strict_reference_match": true,
+    "reference": "Yes, the figures are comparable; Retailer A reports GBP 4646.13 more revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "Yes, the figures are comparable; Retailer A reports GBP 4646.13 more revenue within the matched comparison. This does not establish overall market leadership or market share."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_001_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_001",
+    "strict_reference_match": true,
+    "reference": "The evidence does not support a fair revenue comparison. The reporting periods differ. Obtain sales for matching dates.",
+    "response": "The evidence does not support a fair revenue comparison. The reporting periods differ. Obtain sales for matching dates."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_001_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_001",
+    "strict_reference_match": true,
+    "reference": "The evidence does not support a fair revenue comparison. The reporting periods differ. Obtain sales for matching dates.",
+    "response": "The evidence does not support a fair revenue comparison. The reporting periods differ. Obtain sales for matching dates."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_002_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_002",
+    "strict_reference_match": true,
+    "reference": "Yes, the figures are comparable; Retailer B reports GBP 4035.23 more revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "Yes, the figures are comparable; Retailer B reports GBP 4035.23 more revenue within the matched comparison. This does not establish overall market leadership or market share."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_002_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_002",
+    "strict_reference_match": true,
+    "reference": "Yes, the figures are comparable; Retailer B reports GBP 4035.23 more revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "Yes, the figures are comparable; Retailer B reports GBP 4035.23 more revenue within the matched comparison. This does not establish overall market leadership or market share."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_003_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_003",
+    "strict_reference_match": true,
+    "reference": "The evidence does not support a fair revenue comparison. The product categories differ. Obtain sales for matching categories.",
+    "response": "The evidence does not support a fair revenue comparison. The product categories differ. Obtain sales for matching categories."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_003_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_003",
+    "strict_reference_match": true,
+    "reference": "The evidence does not support a fair revenue comparison. The product categories differ. Obtain sales for matching categories.",
+    "response": "The evidence does not support a fair revenue comparison. The product categories differ. Obtain sales for matching categories."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_004_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_004",
+    "strict_reference_match": true,
+    "reference": "Yes, the figures are comparable; Both retailers report equal revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "Yes, the figures are comparable; Both retailers report equal revenue within the matched comparison. This does not establish overall market leadership or market share."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_004_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_004",
+    "strict_reference_match": true,
+    "reference": "Yes, the figures are comparable; Both retailers report equal revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "Yes, the figures are comparable; Both retailers report equal revenue within the matched comparison. This does not establish overall market leadership or market share."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_005_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_005",
+    "strict_reference_match": true,
+    "reference": "The evidence does not support a fair revenue comparison. The countries differ. Obtain sales for matching countries.",
+    "response": "The evidence does not support a fair revenue comparison. The countries differ. Obtain sales for matching countries."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_005_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_005",
+    "strict_reference_match": true,
+    "reference": "The evidence does not support a fair revenue comparison. The countries differ. Obtain sales for matching countries.",
+    "response": "The evidence does not support a fair revenue comparison. The countries differ. Obtain sales for matching countries."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_006_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_006",
+    "strict_reference_match": true,
+    "reference": "Yes, the figures are comparable; Retailer A reports GBP 1197.03 more revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "Yes, the figures are comparable; Retailer A reports GBP 1197.03 more revenue within the matched comparison. This does not establish overall market leadership or market share."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_006_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_006",
+    "strict_reference_match": true,
+    "reference": "Yes, the figures are comparable; Retailer A reports GBP 1197.03 more revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "Yes, the figures are comparable; Retailer A reports GBP 1197.03 more revenue within the matched comparison. This does not establish overall market leadership or market share."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_007_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_007",
+    "strict_reference_match": true,
+    "reference": "The evidence does not support a fair revenue comparison. The currencies differ. Convert both figures to a common currency using an appropriate documented exchange-rate method.",
+    "response": "The evidence does not support a fair revenue comparison. The currencies differ. Convert both figures to a common currency using an appropriate documented exchange-rate method."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_007_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_007",
+    "strict_reference_match": true,
+    "reference": "The evidence does not support a fair revenue comparison. The currencies differ. Convert both figures to a common currency using an appropriate documented exchange-rate method.",
+    "response": "The evidence does not support a fair revenue comparison. The currencies differ. Convert both figures to a common currency using an appropriate documented exchange-rate method."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_008_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_008",
+    "strict_reference_match": true,
+    "reference": "Yes, the figures are comparable; Retailer B reports GBP 6076.30 more revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "Yes, the figures are comparable; Retailer B reports GBP 6076.30 more revenue within the matched comparison. This does not establish overall market leadership or market share."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_008_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_008",
+    "strict_reference_match": true,
+    "reference": "Yes, the figures are comparable; Retailer B reports GBP 6076.30 more revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "Yes, the figures are comparable; Retailer B reports GBP 6076.30 more revenue within the matched comparison. This does not establish overall market leadership or market share."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_009_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_009",
+    "strict_reference_match": true,
+    "reference": "The evidence does not support a fair revenue comparison. Retailer B's revenue is unavailable. Obtain comparable competitor revenue for matching dates, categories and countries.",
+    "response": "The evidence does not support a fair revenue comparison. Retailer B's revenue is unavailable. Obtain comparable competitor revenue for matching dates, categories and countries."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_009_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_009",
+    "strict_reference_match": true,
+    "reference": "The evidence does not support a fair revenue comparison. Retailer B's revenue is unavailable. Obtain comparable competitor revenue for matching dates, categories and countries.",
+    "response": "The evidence does not support a fair revenue comparison. Retailer B's revenue is unavailable. Obtain comparable competitor revenue for matching dates, categories and countries."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_010_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_010",
+    "strict_reference_match": true,
+    "reference": "Yes, the figures are comparable; Both retailers report equal revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "Yes, the figures are comparable; Both retailers report equal revenue within the matched comparison. This does not establish overall market leadership or market share."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_010_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_010",
+    "strict_reference_match": true,
+    "reference": "Yes, the figures are comparable; Both retailers report equal revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "Yes, the figures are comparable; Both retailers report equal revenue within the matched comparison. This does not establish overall market leadership or market share."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_011_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_011",
+    "strict_reference_match": true,
+    "reference": "The evidence does not support a fair revenue comparison. The reporting periods differ. Obtain sales for matching dates.",
+    "response": "The evidence does not support a fair revenue comparison. The reporting periods differ. Obtain sales for matching dates."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_011_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_011",
+    "strict_reference_match": true,
+    "reference": "The evidence does not support a fair revenue comparison. The reporting periods differ. Obtain sales for matching dates.",
+    "response": "The evidence does not support a fair revenue comparison. The reporting periods differ. Obtain sales for matching dates."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_012_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_012",
+    "strict_reference_match": true,
+    "reference": "Yes, the figures are comparable; Retailer A reports GBP 18013.30 more revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "Yes, the figures are comparable; Retailer A reports GBP 18013.30 more revenue within the matched comparison. This does not establish overall market leadership or market share."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_012_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_012",
+    "strict_reference_match": true,
+    "reference": "Yes, the figures are comparable; Retailer A reports GBP 18013.30 more revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "Yes, the figures are comparable; Retailer A reports GBP 18013.30 more revenue within the matched comparison. This does not establish overall market leadership or market share."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_013_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_013",
+    "strict_reference_match": true,
+    "reference": "The evidence does not support a fair revenue comparison. The product categories differ. Obtain sales for matching categories.",
+    "response": "The evidence does not support a fair revenue comparison. The product categories differ. Obtain sales for matching categories."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_013_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_013",
+    "strict_reference_match": true,
+    "reference": "The evidence does not support a fair revenue comparison. The product categories differ. Obtain sales for matching categories.",
+    "response": "The evidence does not support a fair revenue comparison. The product categories differ. Obtain sales for matching categories."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_014_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_014",
+    "strict_reference_match": true,
+    "reference": "Yes, the figures are comparable; Retailer B reports GBP 13755.07 more revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "Yes, the figures are comparable; Retailer B reports GBP 13755.07 more revenue within the matched comparison. This does not establish overall market leadership or market share."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_014_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_014",
+    "strict_reference_match": true,
+    "reference": "Yes, the figures are comparable; Retailer B reports GBP 13755.07 more revenue within the matched comparison. This does not establish overall market leadership or market share.",
+    "response": "Yes, the figures are comparable; Retailer B reports GBP 13755.07 more revenue within the matched comparison. This does not establish overall market leadership or market share."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_015_variant_1",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_015",
+    "strict_reference_match": true,
+    "reference": "The evidence does not support a fair revenue comparison. The countries differ. Obtain sales for matching countries.",
+    "response": "The evidence does not support a fair revenue comparison. The countries differ. Obtain sales for matching countries."
+  },
+  {
+    "model": "fine_tuned",
+    "id": "competitor_v3_test_015_variant_2",
+    "task_family": "competitor_research",
+    "source_group": "competitor_v3_test_015",
+    "strict_reference_match": true,
+    "reference": "The evidence does not support a fair revenue comparison. The countries differ. Obtain sales for matching countries.",
+    "response": "The evidence does not support a fair revenue comparison. The countries differ. Obtain sales for matching countries."
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "method": "Prepared sales summaries, Python rule and fixed template",
+  "countries": [
+    {
+      "country": "United Kingdom",
+      "positive_sales_revenue_gbp": "9001744.09",
+      "identified_customers": 3920,
+      "small_sample_warning": false,
+      "marketing_recommendation": "Test a campaign based on recorded product purchases and measure incremental sales."
+    },
+    {
+      "country": "Netherlands",
+      "positive_sales_revenue_gbp": "285446.34",
+      "identified_customers": 9,
+      "small_sample_warning": false,
+      "marketing_recommendation": "Review recorded purchase frequency and product mix to design a small marketing test."
+    },
+    {
+      "country": "EIRE",
+      "positive_sales_revenue_gbp": "283140.52",
+      "identified_customers": 3,
+      "small_sample_warning": true,
+      "marketing_recommendation": "Review revenue concentration and unidentified purchases before increasing marketing spend."
+    }
+  ],
+  "limitation": "Revenue represents this retailer's positive sales before return and cancellation deductions, including valid sales without CustomerIDs. The warning applies only to recorded identified-customer counts; missing IDs may represent additional customers. These records do not establish national demand or explain customer motives."
+}

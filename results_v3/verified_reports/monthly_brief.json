@@ -1,0 +1,90 @@
+{
+  "method": "Python calculations and fixed report template",
+  "months": [
+    {
+      "month": "2010-12",
+      "positive_sales_revenue_gbp": "821452.73",
+      "coverage": "Complete month",
+      "change_percent": null
+    },
+    {
+      "month": "2011-01",
+      "positive_sales_revenue_gbp": "689811.61",
+      "coverage": "Complete month",
+      "change_percent": "-16.03"
+    },
+    {
+      "month": "2011-02",
+      "positive_sales_revenue_gbp": "522545.56",
+      "coverage": "Complete month",
+      "change_percent": "-24.25"
+    },
+    {
+      "month": "2011-03",
+      "positive_sales_revenue_gbp": "716215.26",
+      "coverage": "Complete month",
+      "change_percent": "37.06"
+    },
+    {
+      "month": "2011-04",
+      "positive_sales_revenue_gbp": "536968.49",
+      "coverage": "Complete month",
+      "change_percent": "-25.03"
+    },
+    {
+      "month": "2011-05",
+      "positive_sales_revenue_gbp": "769296.61",
+      "coverage": "Complete month",
+      "change_percent": "43.27"
+    },
+    {
+      "month": "2011-06",
+      "positive_sales_revenue_gbp": "760547.01",
+      "coverage": "Complete month",
+      "change_percent": "-1.14"
+    },
+    {
+      "month": "2011-07",
+      "positive_sales_revenue_gbp": "718076.12",
+      "coverage": "Complete month",
+      "change_percent": "-5.58"
+    },
+    {
+      "month": "2011-08",
+      "positive_sales_revenue_gbp": "757841.38",
+      "coverage": "Complete month",
+      "change_percent": "5.54"
+    },
+    {
+      "month": "2011-09",
+      "positive_sales_revenue_gbp": "1056435.19",
+      "coverage": "Complete month",
+      "change_percent": "39.40"
+    },
+    {
+      "month": "2011-10",
+      "positive_sales_revenue_gbp": "1151263.73",
+      "coverage": "Complete month",
+      "change_percent": "8.98"
+    },
+    {
+      "month": "2011-11",
+      "positive_sales_revenue_gbp": "1503866.78",
+      "coverage": "Complete month",
+      "change_percent": "30.63"
+    },
+    {
+      "month": "2011-12",
+      "positive_sales_revenue_gbp": "637790.33",
+      "coverage": "Partial month: through December 9",
+      "change_percent": null
+    }
+  ],
+  "findings": [
+    "Largest qualifying increase: 2011-05, +43.27%.",
+    "Largest qualifying decrease: 2011-04, -25.03%.",
+    "Highest complete-month revenue: 2011-11, GBP 1,503,866.78."
+  ],
+  "recommendation": "Review inventory timing around the recorded higher-revenue months using current stock and supplier lead times.",
+  "limitation": "Changes are calculated only between consecutive months declared complete in the source summary. Partial-month totals cannot establish a full-month decline. These historical figures do not prove a recurring seasonal pattern or its cause."
+}

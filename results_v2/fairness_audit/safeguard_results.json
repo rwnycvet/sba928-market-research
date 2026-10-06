@@ -1,0 +1,171 @@
+{
+  "method": "Python rule and fixed explanation template",
+  "rule": "identified_customers < 5",
+  "cases": 16,
+  "correct_decisions": 16,
+  "decision_accuracy_percent": 100.0,
+  "scores_by_label": {
+    "Germany": {
+      "correct": 4,
+      "total": 4
+    },
+    "Brazil": {
+      "correct": 4,
+      "total": 4
+    },
+    "Unspecified": {
+      "correct": 4,
+      "total": 4
+    },
+    "Sampleland": {
+      "correct": 4,
+      "total": 4
+    }
+  },
+  "results": [
+    {
+      "id": "geographic_label_germany_3",
+      "geographic_label": "Germany",
+      "identified_customers": 3,
+      "expected_warning": true,
+      "predicted_warning": true,
+      "correct_decision": true,
+      "explanation": "Yes. Germany has 3 identified customers, which is fewer than five. This is a descriptive rule, not a statistical test of representativeness."
+    },
+    {
+      "id": "geographic_label_germany_4",
+      "geographic_label": "Germany",
+      "identified_customers": 4,
+      "expected_warning": true,
+      "predicted_warning": true,
+      "correct_decision": true,
+      "explanation": "Yes. Germany has 4 identified customers, which is fewer than five. This is a descriptive rule, not a statistical test of representativeness."
+    },
+    {
+      "id": "geographic_label_germany_5",
+      "geographic_label": "Germany",
+      "identified_customers": 5,
+      "expected_warning": false,
+      "predicted_warning": false,
+      "correct_decision": true,
+      "explanation": "No. Germany has 5 identified customers, which is at least five. This is a descriptive rule, not a statistical test of representativeness."
+    },
+    {
+      "id": "geographic_label_germany_8",
+      "geographic_label": "Germany",
+      "identified_customers": 8,
+      "expected_warning": false,
+      "predicted_warning": false,
+      "correct_decision": true,
+      "explanation": "No. Germany has 8 identified customers, which is at least five. This is a descriptive rule, not a statistical test of representativeness."
+    },
+    {
+      "id": "geographic_label_brazil_3",
+      "geographic_label": "Brazil",
+      "identified_customers": 3,
+      "expected_warning": true,
+      "predicted_warning": true,
+      "correct_decision": true,
+      "explanation": "Yes. Brazil has 3 identified customers, which is fewer than five. This is a descriptive rule, not a statistical test of representativeness."
+    },
+    {
+      "id": "geographic_label_brazil_4",
+      "geographic_label": "Brazil",
+      "identified_customers": 4,
+      "expected_warning": true,
+      "predicted_warning": true,
+      "correct_decision": true,
+      "explanation": "Yes. Brazil has 4 identified customers, which is fewer than five. This is a descriptive rule, not a statistical test of representativeness."
+    },
+    {
+      "id": "geographic_label_brazil_5",
+      "geographic_label": "Brazil",
+      "identified_customers": 5,
+      "expected_warning": false,
+      "predicted_warning": false,
+      "correct_decision": true,
+      "explanation": "No. Brazil has 5 identified customers, which is at least five. This is a descriptive rule, not a statistical test of representativeness."
+    },
+    {
+      "id": "geographic_label_brazil_8",
+      "geographic_label": "Brazil",
+      "identified_customers": 8,
+      "expected_warning": false,
+      "predicted_warning": false,
+      "correct_decision": true,
+      "explanation": "No. Brazil has 8 identified customers, which is at least five. This is a descriptive rule, not a statistical test of representativeness."
+    },
+    {
+      "id": "geographic_label_unspecified_3",
+      "geographic_label": "Unspecified",
+      "identified_customers": 3,
+      "expected_warning": true,
+      "predicted_warning": true,
+      "correct_decision": true,
+      "explanation": "Yes. Unspecified has 3 identified customers, which is fewer than five. This is a descriptive rule, not a statistical test of representativeness."
+    },
+    {
+      "id": "geographic_label_unspecified_4",
+      "geographic_label": "Unspecified",
+      "identified_customers": 4,
+      "expected_warning": true,
+      "predicted_warning": true,
+      "correct_decision": true,
+      "explanation": "Yes. Unspecified has 4 identified customers, which is fewer than five. This is a descriptive rule, not a statistical test of representativeness."
+    },
+    {
+      "id": "geographic_label_unspecified_5",
+      "geographic_label": "Unspecified",
+      "identified_customers": 5,
+      "expected_warning": false,
+      "predicted_warning": false,
+      "correct_decision": true,
+      "explanation": "No. Unspecified has 5 identified customers, which is at least five. This is a descriptive rule, not a statistical test of representativeness."
+    },
+    {
+      "id": "geographic_label_unspecified_8",
+      "geographic_label": "Unspecified",
+      "identified_customers": 8,
+      "expected_warning": false,
+      "predicted_warning": false,
+      "correct_decision": true,
+      "explanation": "No. Unspecified has 8 identified customers, which is at least five. This is a descriptive rule, not a statistical test of representativeness."
+    },
+    {
+      "id": "geographic_label_sampleland_3",
+      "geographic_label": "Sampleland",
+      "identified_customers": 3,
+      "expected_warning": true,
+      "predicted_warning": true,
+      "correct_decision": true,
+      "explanation": "Yes. Sampleland has 3 identified customers, which is fewer than five. This is a descriptive rule, not a statistical test of representativeness."
+    },
+    {
+      "id": "geographic_label_sampleland_4",
+      "geographic_label": "Sampleland",
+      "identified_customers": 4,
+      "expected_warning": true,
+      "predicted_warning": true,
+      "correct_decision": true,
+      "explanation": "Yes. Sampleland has 4 identified customers, which is fewer than five. This is a descriptive rule, not a statistical test of representativeness."
+    },
+    {
+      "id": "geographic_label_sampleland_5",
+      "geographic_label": "Sampleland",
+      "identified_customers": 5,
+      "expected_warning": false,
+      "predicted_warning": false,
+      "correct_decision": true,
+      "explanation": "No. Sampleland has 5 identified customers, which is at least five. This is a descriptive rule, not a statistical test of representativeness."
+    },
+    {
+      "id": "geographic_label_sampleland_8",
+      "geographic_label": "Sampleland",
+      "identified_customers": 8,
+      "expected_warning": false,
+      "predicted_warning": false,
+      "correct_decision": true,
+      "explanation": "No. Sampleland has 8 identified customers, which is at least five. This is a descriptive rule, not a statistical test of representativeness."
+    }
+  ]
+}

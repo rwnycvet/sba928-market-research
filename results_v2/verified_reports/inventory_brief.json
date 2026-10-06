@@ -1,0 +1,42 @@
+{
+  "source_file": "results/top_five_cancellation_review.csv",
+  "method": "Saved measurements and fixed report template",
+  "products": [
+    {
+      "stock_code": "23843",
+      "description": "PAPER CRAFT , LITTLE BIRDIE",
+      "positive_units": 80995,
+      "signed_units": 0,
+      "recommendation": "Review transaction reversals before considering replenishment; the recorded signed balance is zero or negative."
+    },
+    {
+      "stock_code": "23166",
+      "description": "MEDIUM CERAMIC TOP STORAGE JAR",
+      "positive_units": 78033,
+      "signed_units": 3539,
+      "recommendation": "Review the difference between positive and signed units, current stock and supplier lead times before setting replenishment."
+    },
+    {
+      "stock_code": "22197",
+      "description": "SMALL POPCORN HOLDER",
+      "positive_units": 56898,
+      "signed_units": 56427,
+      "recommendation": "Review the difference between positive and signed units, current stock and supplier lead times before setting replenishment."
+    },
+    {
+      "stock_code": "84077",
+      "description": "WORLD WAR 2 GLIDERS ASSTD DESIGNS",
+      "positive_units": 54951,
+      "signed_units": 53751,
+      "recommendation": "Review the difference between positive and signed units, current stock and supplier lead times before setting replenishment."
+    },
+    {
+      "stock_code": "85099B",
+      "description": "JUMBO BAG RED RETROSPOT",
+      "positive_units": 48371,
+      "signed_units": 47256,
+      "recommendation": "Review the difference between positive and signed units, current stock and supplier lead times before setting replenishment."
+    }
+  ],
+  "limitation": "Positive units measure sales before reversal deductions. Signed balances include negative quantities in the prepared priced records; they do not prove that every reversal has been matched to its original purchase. Stock levels, supplier lead times and demand lost through stockouts are unavailable, so exact reorder quantities cannot be determined."
+}

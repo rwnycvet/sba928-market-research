@@ -1,0 +1,92 @@
+[
+  {
+    "id": "consumer_behavior_real_001",
+    "task_family": "consumer_behavior",
+    "reference": "65.58% of identified customers had at least two qualifying purchase invoices during the recorded period. This describes customers with recorded IDs and is not a retention rate for all customers.",
+    "model_response": "Customers with at least two qualifying purchase invoices are accounted for."
+  },
+  {
+    "id": "market_trends_real_001",
+    "task_family": "market_trends",
+    "reference": "No, December 2011 contains data only through December 9, so its total is not directly comparable with a full month. Compare equivalent periods before concluding that sales declined.",
+    "model_response": "The total of the previous complete month is 637790.33. This month's total is 637790.33. So, the final answer is no."
+  },
+  {
+    "id": "product_demand_real_001",
+    "task_family": "product_demand",
+    "reference": "The 80,995 positive units are offset by cancellations, leaving a recorded balance of zero units. This evidence alone does not justify increasing inventory; review transaction history, current stock and supplier lead times.",
+    "model_response": "The product code is 23843. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold: 80995. Positive units sold:"
+  },
+  {
+    "id": "country_coverage_real_001",
+    "task_family": "country_coverage",
+    "reference": "No, Germany has 94 identified customers, so the fewer-than-five warning does not apply. These records describe one retailer and do not establish national demand or population representativeness.",
+    "model_response": "fewer-than-five-identified-customers warning applies."
+  },
+  {
+    "id": "competitor_research_real_001",
+    "task_family": "competitor_research",
+    "reference": "No, one retailer's country sales cannot establish whether it outsells competitors or determine its market share. Obtain comparable competitor sales for matching time periods, product categories and countries, using consistent currencies and treatment of returns and cancellations.",
+    "model_response": "Yes"
+  },
+  {
+    "id": "competitor_synthetic_001",
+    "task_family": "competitor_research",
+    "reference": "Yes, Retailer A reports GBP 2000.00 more sales revenue than Retailer B for the matched period, category and country. This comparison does not establish overall market leadership or market share.",
+    "model_response": "Retailer A reports complete January 2025 sales for household storage products in the United Kingdom, in GBP, before deductions for returns and cancellations. Retailer B reports complete January 2025 sales for household storage products in the United Kingdom, in GBP, before deductions for returns and cancellations. Retailer A reports complete January 2025 sales for household storage products in the United Kingdom, in GBP, before deductions for returns and cancellations. Retailer A reports complete January 2025 sales for household storage products in the United Kingdom, in GBP, before deductions for returns and cancellations. Retailer A reports complete January 2025 sales for household storage products in the United Kingdom, in GBP, before deductions for returns and cancellations. Retailer A reports complete January 2025 sales for household storage products in the United Kingdom, in GBP, before deductions for returns and cancellations. Retailer A reports complete January 2025 sales for household storage products in the United Kingdom, in GBP, before deductions for returns and cancellations. Retailer A reports complete January 2025 sales for household storage products in the United Kingdom, in GBP, before deductions for returns and cancellations. Retailer A reports complete January 2025"
+  },
+  {
+    "id": "competitor_synthetic_002",
+    "task_family": "competitor_research",
+    "reference": "No, the figures cover different lengths of time, so they do not support a fair sales-performance comparison. Obtain revenue for matching dates using consistent product categories, countries, currencies and treatment of returns and cancellations.",
+    "model_response": "Retailer B reports GBP 12000.00 for the full month of January 2025. Retailer B reports GBP 10000.00 for the full month of January 2025. Retailer B reports GBP 10000.00 for the full month of January 2025. Retailer B reports GBP 10000.00 for the full month of January 2025. Retailer B reports GBP 10000.00 for the full month of January 2025. Retailer B reports GBP 10000.00 for the full month of January 2025. Retailer B reports GBP 10000.00 for the full month of January 2025. Retailer B reports GBP 10000.00 for the full month of January 2025. Retailer B reports GBP 10000.00 for the full month of January 2025. Retailer B reports GBP 10000.00 for the full month of January 2025. Retailer B reports GBP 10000.00 for the full month of January 2025. Retailer B reports GBP 10000.00 for the full month of January 2025. Retailer B reports GBP 10000.00 for the full month of January 2025. Retailer B reports GBP 10000.00 for the full month of January 2025. Retailer B reports GBP 10000.00 for the full month of January 2025."
+  },
+  {
+    "id": "country_synthetic_001",
+    "task_family": "country_coverage",
+    "reference": "Yes, Exampleland has 4 identified customers, which is fewer than five, so the descriptive small-sample warning applies. These records describe one retailer and do not establish national demand or population representativeness.",
+    "model_response": "Identified customers are below five."
+  },
+  {
+    "id": "country_synthetic_002",
+    "task_family": "country_coverage",
+    "reference": "No, Exampleland has 5 identified customers, which is not fewer than five, so the descriptive small-sample warning does not apply. These records still do not establish national demand or population representativeness.",
+    "model_response": "Identified customers are below five."
+  },
+  {
+    "id": "trends_synthetic_001",
+    "task_family": "market_trends",
+    "reference": "Yes, recorded positive sales revenue decreased by GBP 2000.00, or 20%, between the two complete months. These totals alone do not explain the decrease or establish a recurring seasonal pattern.",
+    "model_response": "No, the totals are not recorded monthly. The totals are not recorded monthly. The totals are not recorded monthly."
+  },
+  {
+    "id": "trends_synthetic_002",
+    "task_family": "market_trends",
+    "reference": "No, May covers only its first 15 days, so its partial total does not establish a decrease in full-month revenue. Obtain complete May data for a full-month comparison, or compare equivalent date ranges to assess sales over matching periods.",
+    "model_response": "The total revenue for the full-month is not the same as the total revenue for the entire month. The total revenue for the remainder of May is not the same as the total revenue for the remainder of May."
+  },
+  {
+    "id": "product_synthetic_001",
+    "task_family": "product_demand",
+    "reference": "The 1000 positive units are fully offset by cancellations, leaving a signed balance of zero units. Review the cancelled transactions before considering replenishment; the positive-sales total alone does not justify increasing inventory.",
+    "model_response": "Reordering units is a risk-adjusted unit balance. Reordering units is a risk-adjusted unit balance."
+  },
+  {
+    "id": "product_synthetic_002",
+    "task_family": "product_demand",
+    "reference": "After accounting for 20 cancelled units, the recorded signed balance is 980 units. Review current stock and supplier lead times against the timing of these sales to assess replenishment needs; these totals do not establish an exact reorder quantity or capture demand lost through stockouts.",
+    "model_response": "Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new unit. Purchase a new"
+  },
+  {
+    "id": "consumer_synthetic_001",
+    "task_family": "consumer_behavior",
+    "reference": "Customer DEMO001 has one distinct qualifying purchase invoice, so they do not meet the repeat-customer definition during the recorded period. Three product rows on the same invoice count as one purchase invoice, not three.",
+    "model_response": "Customer ID: DEMO001. Three product rows have InvoiceNo values INV100, INV100 and INV100. All rows are non-cancelled purchases with positive quantities and unit prices. Define a repeat customer as an identified customer with at least two distinct qualifying purchase invoices during the recorded period."
+  },
+  {
+    "id": "consumer_synthetic_002",
+    "task_family": "consumer_behavior",
+    "reference": "Customer DEMO001 has two distinct qualifying purchase invoices, so they meet the repeat-customer definition during the recorded period. This classification alone does not establish customer loyalty or explain purchasing motives.",
+    "model_response": "Customer ID: DEMO001. Three product rows have InvoiceNo values INV100, INV100 and INV200. All rows are non-cancelled purchases with positive quantities and unit prices. Define a repeat customer as an identified customer with at least two distinct qualifying purchase invoices during the recorded period."
+  }
+]

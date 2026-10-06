@@ -1,0 +1,59 @@
+{
+  "dataset_version": "v3_synthetic_computed_evidence",
+  "source_type": "synthetic",
+  "splits": {
+    "train": {
+      "examples": 640,
+      "source_groups": 320,
+      "examples_by_family": {
+        "country_coverage": 128,
+        "consumer_behavior": 128,
+        "market_trends": 128,
+        "product_demand": 128,
+        "competitor_research": 128
+      }
+    },
+    "validation": {
+      "examples": 160,
+      "source_groups": 80,
+      "examples_by_family": {
+        "country_coverage": 32,
+        "consumer_behavior": 32,
+        "market_trends": 32,
+        "product_demand": 32,
+        "competitor_research": 32
+      }
+    },
+    "test": {
+      "examples": 160,
+      "source_groups": 80,
+      "examples_by_family": {
+        "country_coverage": 32,
+        "consumer_behavior": 32,
+        "market_trends": 32,
+        "product_demand": 32,
+        "competitor_research": 32
+      }
+    }
+  },
+  "source_file_sha256": {
+    "country_cases.jsonl": "13a294f46c8f8e4db952a1debd7108a693aa4cd41aa4b79bd58a3e5c52c782ef",
+    "consumer_cases.jsonl": "39d3181fee54e3a2968383c4f223b00fae5d687b00716272c3b5adca3e46e87f",
+    "trend_cases.jsonl": "07d9fa967e20ace1512bcb182b44acbe4c29b39f009d73f8f649bc6fe7a86505",
+    "product_cases.jsonl": "711b64a11b3f24de2cbd4d0d1dffc12abe44847288ef28d58e020f20afb97ae0",
+    "competitor_cases.jsonl": "80b809e1748e5c0323cac0d909111ac0b0d375980741c96777f9dfba394db6c1"
+  },
+  "dataset_sha256": {
+    "train": "39fd2967e2768c194b1cb30735a4adf217338a48a0d45ccc9ef3898fb715c20b",
+    "validation": "439b333c1e34eae10a9ab88a1333ca9499d28ec8d4852ef6551ed698166373ea",
+    "test": "af210a4c55646e0850a618e3a6b1a5a5087a6a84c6bb43b730fc6f9902beff05"
+  },
+  "limitations": [
+    "All examples are fictional, not retailer findings.",
+    "Splits share templates and reasoning patterns.",
+    "Two prompt variations share each scenario's evidence.",
+    "Several tasks supply figures calculated by Python.",
+    "Performance does not establish autonomous arithmetic ability.",
+    "Previously reviewed v2 tests remain regression checks."
+  ]
+}
